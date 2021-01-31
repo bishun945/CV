@@ -81,10 +81,7 @@ tribble(
 ## Peer-reviewed journal articles  
 
 ```{r}
-bibliography_entries("publications.bib") %>%
-  arrange(desc(author$family))
-
-# tmp <- rmarkdown::pandoc_citeproc_convert("publications.bib")
+bibliography_entries("publications.bib")
 ```
 
 ## R Packages
