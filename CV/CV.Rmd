@@ -66,6 +66,7 @@ tribble(
   "Sep-2018", "the First Prize Scholarship of 2017",  "China", 
   "Sep-2019", "the First Prize Scholarship of 2018", "China", 
   "Nov-2019", "the Scholarship of Saiteng Fenghui of 2019",  "China", 
+  "Sep-2020", "the First Prize Scholarship of 2019", "China", 
   "Nov-2020", "the National Scholarship of 2020", "China"
 ) %>% 
     brief_entries(
@@ -80,7 +81,10 @@ tribble(
 ## Peer-reviewed journal articles  
 
 ```{r}
-bibliography_entries("publications.bib")
+bibliography_entries("publications.bib") %>%
+  arrange(desc(author$family))
+
+# tmp <- rmarkdown::pandoc_citeproc_convert("publications.bib")
 ```
 
 ## R Packages
