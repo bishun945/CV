@@ -107,7 +107,7 @@ Publications {data-icon=book}
 <!-- 1 -->
 ### Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data
 
-J. Lake Sci., *30*(3), 701–712 (in Chineses)
+J. Lake Sci., *30*(3), 701–712 (*in Chinese*)
 
 N/A
 
@@ -258,7 +258,7 @@ Awards and Honors {data-icon=award}
 
 ### the Third Prize of 2017 NNU Graduate Mathematical Modeling Competition
 
-Title: Research on Feature Selection and Classifier Algorithm in Intrusion Detection (*in Chineses*)
+Title: Research on Feature Selection and Classifier Algorithm in Intrusion Detection (*in Chinese*)
 
 N/A
 
@@ -268,7 +268,7 @@ Bi S, Chen B, Ding X
 
 ### the Second Prize of 2017 National Graduate Mathematical Modeling Competition
 
-Title: Foreground target extraction based on surveillance video (*in Chineses*)
+Title: Foreground target extraction based on surveillance video (*in Chinese*)
 
 N/A
 
@@ -286,7 +286,7 @@ N/A
 
 ### the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition
 
-Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (*in Chineses*)
+Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (*in Chinese*)
 
 N/A
 
@@ -311,7 +311,7 @@ Grants and Fellowships {data-icon=hands-helping}
 
 ### Postgraduate Research & Practice Innovation Program of Jiangsu province, China
 
-Project title: Research on the three-dimensional spatiotemporal pattern of the total biomass of cyanobacteria in Taihu Lake based on remote sensing technology (*in Chineses*)
+Project title: Research on the three-dimensional spatiotemporal pattern of the total biomass of cyanobacteria in Taihu Lake based on remote sensing technology (*in Chinese*)
 
 N/A
 
