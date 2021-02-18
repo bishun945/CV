@@ -49,6 +49,8 @@ Disclaimer {#disclaimer}
 
 This resume (see [online](https://bishun945.github.io/CV/) version) was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
+Online [html](https://bishun945.github.io/CV/) | Download [pdf](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf)
+
 Last updated on `r Sys.Date()`.
 
 
