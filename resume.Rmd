@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -17,27 +17,31 @@ Aside
 ![Shun Bi](./CV/photo2.jpg){width=60%}
 
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
+### Contact Info {#contact}
+<!-- -------------------------------------------------------------------------------- -->
 
 <!-- For more icons on https://fontawesome.com/ -->
 
 - <i class="fa fa-envelope"></i> bishun1994@foxmail.com
-- <i class="fa fa-phone"></i> +86 15651909539
+- <i class="fa fa-phone"></i> +86 156-5190-9539
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
 - For more information, please contact me via email.
 
 
-Skills {#skills}
---------------------------------------------------------------------------------
+### Skills {#skills}
+<!-- -------------------------------------------------------------------------------- -->
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
+- Experienced in atmospheric correction, Chla algorithm and optical water clustering.
 
-- Full experience with next generation sequencing data analysis.
+- Full experience in remote sensing image processing.
 
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- R, Python, IDL, MATLAB, SeaDAS, SNAP, Ubuntu, macOS.
+
+### Languages 
+
+Mandarin (native), English (written and oral)
 
 
 Disclaimer {#disclaimer}
@@ -49,11 +53,14 @@ Last updated on `r Sys.Date()`.
 
 
 
+
 Main
 ================================================================================
 
-Shun Bi {#title}
+Shun Bi 毕顺 {#title}
 --------------------------------------------------------------------------------
+
+
 
 ### Currently searching for a PD position
 
@@ -67,7 +74,7 @@ Education {data-icon=graduation-cap data-concise=true}
 
 B.S. in Remote Sensing Science and Technology
 
-Jiangsu, China
+Xuzhou, China
 
 2012 - 2016
 
@@ -77,7 +84,7 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 
 M.S. in Remote Sensing of Environment
 
-Jiangsu, China
+Nanjing, China
 
 2016 - 2018
 
@@ -87,7 +94,7 @@ Qualified for the Successive Master-Doctor Program in 2018
 
 Ph.D in Remote Sensing of Environment
 
-Jiangsu, China
+Nanjing, China
 
 2018 - Now
 
@@ -97,128 +104,363 @@ Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Base
 
 Publications {data-icon=book}
 --------------------------------------------------------------------------------
+<!-- 1 -->
+### Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-
-
-Research Experience {data-icon=award}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data Scientist, intern
-
-SupStat Inc.
-
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
+J. Lake Sci., *30*(3), 701–712 (in Chineses)
 
 N/A
 
-2016 
+2018
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+**Bi S**, Li Y, Lu H, Zhu L, Mu M, Lei S, Wen S, Ding X
+
+<!-- 2 -->
+### Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations
+
+Remote Sensing, *10*(7), 1002
+
+N/A
+
+2018
+
+**Bi S**, Li Y, Wang Q, Lyu H, Liu G, Zheng Z, Du C, Mu M, Xu J, Lei S
+
+<!-- 3 -->
+### Quantifying Spatiotemporal Dynamics of the Column-Integrated Algal Biomass in Nonbloom Conditions Based on OLCI Data: A Case Study of Lake Dianchi, China
+
+IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459.
+
+N/A
+
+2019
+
+**Bi S**, Li Y, Lyu H, Mu M, Xu J, Lei S, Miao S, Hong T, Zhou L
+
+<!-- 4 -->
+### Optical classification of inland waters based on an improved Fuzzy C-Means method
+
+Optics Express, *27*(24), 34838–34856
+
+N/A
+
+2019
+
+**Bi S**, Li Y, Xu J, Liu G, Song K, Mu M, Lyu H, Miao S, Xu J
+
+<!-- 5 -->
+### Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering
+
+IEEE Transactions on Geoscience and Remote Sensing, *press*
+
+N/A
+
+2021
+
+**Bi S**, Li Y, Liu G, Song K, Xu J, Dong X, Cai X, Mu M, Miao S, Lyu H
+
+<!-- others -->
+### Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing
+
+Water Research, *168*, 115162
+
+N/A
+
+2020
+
+Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
+
+### An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters
+
+Remote Sensing of Environment, *239*, 111648
+
+N/A
+
+2020
+
+Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
+
+
+### Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy
+
+Science of the Total Environment, 145249.
+
+N/A
+
+2021
+
+Xu J, Li Y, Lyu H, Lei S, Mu M, **Bi S**, Xu J, Xu X, Miao S, Li L, & others
+
+
+### Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy
+
+Environmental Pollution, *268*, 115763
+
+N/A
+
+2021
+
+Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
+
+
+
+R Packages   {data-icon=cubes}
+--------------------------------------------------------------------------------
+
+### FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending
+
+[<i class="fab fa-r-project"></i>](https://github.com/bishun945/FCMm) package version 0.10.3 
+
+N/A
+
+2020
+
+**Bi S**, Li Y, Liu G
+
+
+### DAMATO: Data Management Toolbox
+
+[<i class="fab fa-r-project"></i>](https://github.com/bishun945/DAMATO) package version 0.0.7
+
+N/A
+
+2020
+
+**Bi S**, Li Y, Cheng X
+
+
+### seadasr: Running seadas with R
+
+[<i class="fab fa-r-project"></i>](https://github.com/bishun945/seadasr) package version 0.0.1 (*private*)
+
+N/A
+
+2020
+
+**Bi S**, Liu G, Li Y
+
+
+### TSSIM: Time-Series-based Spatial Interpolation Method
+
+[<i class="fab fa-r-project"></i>](https://github.com/bishun945/TSSIM) package version 0.0.2 (*private*)
+
+N/A
+
+2019
+
+**Bi S**, Li Y
+
+
+
+
+Awards and Honors {data-icon=award}
+--------------------------------------------------------------------------------
+
+### the Third Prize of 2017 NNU Graduate Mathematical Modeling Competition
+
+Title: Research on Feature Selection and Classifier Algorithm in Intrusion Detection (*in Chineses*)
+
+N/A
+
+2017
+
+Bi S, Chen B, Ding X
+
+### the Second Prize of 2017 National Graduate Mathematical Modeling Competition
+
+Title: Foreground target extraction based on surveillance video (*in Chineses*)
+
+N/A
+
+2017
+
+Bi S, Chen B, Ding X
+
+### ESA-MOST China Dragon 4 Cooperation: BEST POSTER AWARD
+
+Title: Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations
+
+N/A
+
+2018
+
+### the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition
+
+Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (*in Chineses*)
+
+N/A
+
+2018
+
+Bi S, Hong T, Zhou L
+
+
+### the First Prize of the 1st Hyerspectral Imagery Processing Competition - Orbit Cup
+
+Title: Evaluation of the application of ZH-1 data in remote sensing of water color in inland lakes (*in Chinese*)
+
+N/A
+
+2019
+
+Bi S, Hong T, Li L
+
+
+Grants and Fellowships {data-icon=hands-helping}
+--------------------------------------------------------------------------------
+
+### Postgraduate Research & Practice Innovation Program of Jiangsu province, China
+
+Project title: Research on the three-dimensional spatiotemporal pattern of the total biomass of cyanobacteria in Taihu Lake based on remote sensing technology (*in Chineses*)
+
+N/A
+
+2018
+
+### the Second Prize Scholarship
+
+Funded by Nanjing Normal University
+
+N/A
+
+2016
+
+### the First Prize Scholarship
+
+Funded by Nanjing Normal University
+
+N/A
+
+2017 - 2020
+
+
+### Scholarship of Saiteng Fenghui
+
+Funded by Suzhou Secote Precision Electronic Co., Ltd.
+
+N/A
+
+2019
+
+
+### China National Scholarship
+
+Funded by Ministry of Education of the People's Republic of China
+
+N/A
+
+2020
+
+
+Conferences {data-icon=chalkboard}
+--------------------------------------------------------------------------------
+
+### Jiangsu University Geography Postgradutae Forum
+
+N/A
+
+Nanjing, China
+
+2017
+
+### the 5th Graduate Forum of Jiangsu Society of Oceanology and Lomnology
+
+N/A
+
+Nanjing, China
+
+2017
+
+### the 1st China Plateau Lake Forum
+
+N/A
+
+Kunming, China
+
+2017
+
+### Jiangsu University Geography Postgradutae Forum
+
+N/A
+
+Nanjing, China
+
+2018
+
+### ESA-MOST DRAGON 4 PROGRAMME - Advanced Training Course in Ocean & Coastal Remote Sensing
+
+N/A
+
+Shenzhen, China
+
+2018
+
+### National Forum for Doctoral Students in Geographic Information Science
+
+N/A
+
+Nanjing, China
+
+2018
+
+### the 18th Water Color Remote Sensing Conference in China
+
+N/A
+
+Zhanjiang, China
+
+2018
+
+### the 1st Wetland Remote Sensing Conference in China
+
+N/A
+
+Changchung, China
+
+2019
+
+### the 19th Water Color Remote Sensing Conference in China
+
+N/A
+
+Sanya, China
+
+2019
+
+### the 2nd Wetland Remote Sensing Conference in China
+
+N/A
+
+Online
+
+2020
+
+### National Forum for Doctoral Students in Geographic Information Science
+
+N/A
+
+Online
+
+2020
+
+
+::: aside
+#### References
+
+Yunmei Li, Ph.D., Professor
+
+School of Geography
+
+Nanjing Normal University, Nanjing, China
+
++86 138-1383-3136
+
+liyunmei@njnu.edu.cn
+
+:::
+
+
+
+
+
+

@@ -1,3 +1,25 @@
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'),
+       url('https://github.com/yihui/xaringan/releases/download/v0.1/yanone-kaffeesatz.woff') format('woff');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Serif'), local('DroidSerif'),
+       url('https://github.com/yihui/xaringan/releases/download/v0.1/droid-serif.woff') format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro'), local('SourceCodePro-Regular'),
+       url('https://github.com/yihui/xaringan/releases/download/v0.1/source-code-pro.woff') format('woff');
+}
+
 @page{
   size: letter portrait;
   margin: 1in 0.5in 1in 0.25in;
@@ -432,3 +454,5 @@ h2 {
     width: unset;
   }
 }
+
+
