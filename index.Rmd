@@ -47,7 +47,7 @@ Mandarin (native), English (written and oral)
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This resume (see [online](https://bishun945.github.io/CV/) version) was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
