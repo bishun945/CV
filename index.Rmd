@@ -14,7 +14,7 @@ Aside
 ================================================================================
 
 
-![Shun Bi](./CV/photo2.jpg){width=60%}
+![Shun Bi](./photo.jpg){width=60%}
 
 
 ### Contact Info {#contact}
