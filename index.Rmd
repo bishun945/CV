@@ -342,34 +342,59 @@ N/A
 2020
 
 
-Conferences {data-icon=chalkboard}
+Conferences and Presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
-### Jiangsu University Geography Postgradutae Forum
+### [ALGAL GAME](https://bishun945.github.io/presentation20201216/)
 
 N/A
 
 Nanjing, China
 
-2017
+2020
 
-### the 5th Graduate Forum of Jiangsu Society of Oceanology and Lomnology
 
-N/A
-
-Nanjing, China
-
-2017
-
-### the 1st China Plateau Lake Forum
+### National Forum for Doctoral Students in Geographic Information Science
 
 N/A
 
-Kunming, China
+Online
 
-2017
+2020
 
-### Jiangsu University Geography Postgradutae Forum
+### the 2nd Wetland Remote Sensing Conference in China
+
+N/A
+
+Online
+
+2020
+
+### the 19th Water Color Remote Sensing Conference in China
+
+N/A
+
+Sanya, China
+
+2019
+
+### the 1st Wetland Remote Sensing Conference in China
+
+N/A
+
+Changchung, China
+
+2019
+
+### the 18th Water Color Remote Sensing Conference in China
+
+N/A
+
+Zhanjiang, China
+
+2018
+
+### National Forum for Doctoral Students in Geographic Information Science
 
 N/A
 
@@ -385,7 +410,7 @@ Shenzhen, China
 
 2018
 
-### National Forum for Doctoral Students in Geographic Information Science
+### Jiangsu University Geography Postgradutae Forum
 
 N/A
 
@@ -393,45 +418,47 @@ Nanjing, China
 
 2018
 
-### the 18th Water Color Remote Sensing Conference in China
+### the 1st China Plateau Lake Forum
 
 N/A
 
-Zhanjiang, China
+Kunming, China
 
-2018
+2017
 
-### the 1st Wetland Remote Sensing Conference in China
-
-N/A
-
-Changchung, China
-
-2019
-
-### the 19th Water Color Remote Sensing Conference in China
+### the 5th Graduate Forum of Jiangsu Society of Oceanology and Lomnology
 
 N/A
 
-Sanya, China
+Nanjing, China
 
-2019
+2017
 
-### the 2nd Wetland Remote Sensing Conference in China
-
-N/A
-
-Online
-
-2020
-
-### National Forum for Doctoral Students in Geographic Information Science
+### Jiangsu University Geography Postgradutae Forum
 
 N/A
 
-Online
+Nanjing, China
 
-2020
+2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ::: aside
