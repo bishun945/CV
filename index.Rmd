@@ -116,7 +116,7 @@ N/A
 
 **Bi S**, Li Y, Xu J, Liu G, Song K, Mu M, Lyu H, Miao S, Xu J
 
-### [Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China](https://ieeexplore.ieee.org/abstract/document/8718009)
+### [Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China](https://ieeexplore.ieee.org/abstract/document/8718009) {.break-after-me}
 
 IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459,  **IF 5.855**
 
