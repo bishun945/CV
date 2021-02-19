@@ -104,12 +104,11 @@ Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Base
 (expected to receive the degree in June 2019)
 
 
-Publications {data-icon=book}
+Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
-<!-- 1 -->
-### Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data
+### Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data [*](http://www.jlakes.org/ch/reader/view_abstract.aspx?doi=10.18307/2018.0312)
 
-J. Lake Sci., *30*(3), 701–712 (*in Chinese*)
+Journal Lake Science, *30*(3), 701–712 (*in Chinese*) 
 
 N/A
 
@@ -117,10 +116,9 @@ N/A
 
 **Bi S**, Li Y, Lu H, Zhu L, Mu M, Lei S, Wen S, Ding X
 
-<!-- 2 -->
-### Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations
+### Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations [*](https://www.mdpi.com/2072-4292/10/7/1002)
 
-Remote Sensing, *10*(7), 1002
+Remote Sensing, *10*(7), 1002 
 
 N/A
 
@@ -128,10 +126,9 @@ N/A
 
 **Bi S**, Li Y, Wang Q, Lyu H, Liu G, Zheng Z, Du C, Mu M, Xu J, Lei S
 
-<!-- 3 -->
-### Quantifying Spatiotemporal Dynamics of the Column-Integrated Algal Biomass in Nonbloom Conditions Based on OLCI Data: A Case Study of Lake Dianchi, China
+### Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China [*](https://ieeexplore.ieee.org/abstract/document/8718009)
 
-IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459.
+IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459. 
 
 N/A
 
@@ -139,10 +136,9 @@ N/A
 
 **Bi S**, Li Y, Lyu H, Mu M, Xu J, Lei S, Miao S, Hong T, Zhou L
 
-<!-- 4 -->
-### Optical classification of inland waters based on an improved Fuzzy C-Means method
+### Optical classification of inland waters based on an improved Fuzzy C-Means method [*](https://www.osapublishing.org/DirectPDFAccess/3EEC055A-6E95-41EE-8265DED3519E96F2_423176/oe-27-24-34838.pdf?da=1&id=423176&seq=0&mobile=no)
 
-Optics Express, *27*(24), 34838–34856
+Optics Express, *27*(24), 34838–34856 
 
 N/A
 
@@ -150,7 +146,6 @@ N/A
 
 **Bi S**, Li Y, Xu J, Liu G, Song K, Mu M, Lyu H, Miao S, Xu J
 
-<!-- 5 -->
 ### Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering
 
 IEEE Transactions on Geoscience and Remote Sensing, *press*
@@ -162,7 +157,7 @@ N/A
 **Bi S**, Li Y, Liu G, Song K, Xu J, Dong X, Cai X, Mu M, Miao S, Lyu H
 
 <!-- others -->
-### Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing
+### Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing [*](https://www.sciencedirect.com/science/article/pii/S0043135419309364)
 
 Water Research, *168*, 115162
 
@@ -172,7 +167,7 @@ N/A
 
 Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
 
-### An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters
+### An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters [*](https://www.sciencedirect.com/science/article/pii/S0034425720300171)
 
 Remote Sensing of Environment, *239*, 111648
 
@@ -183,9 +178,9 @@ N/A
 Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
 
 
-### Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy
+### Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy [*](https://www.sciencedirect.com/science/article/pii/S0048969721003156)
 
-Science of the Total Environment, 145249.
+Science of the Total Environment, *770*, 145249 
 
 N/A
 
@@ -194,7 +189,7 @@ N/A
 Xu J, Li Y, Lyu H, Lei S, Mu M, **Bi S**, Xu J, Xu X, Miao S, Li L, & others
 
 
-### Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy
+### Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy [*](https://www.sciencedirect.com/science/article/pii/S0269749120364526)
 
 Environmental Pollution, *268*, 115763
 
@@ -206,12 +201,12 @@ Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
 
 
 
-R Packages   {data-icon=cubes}
+R Packages {data-icon=cubes}
 --------------------------------------------------------------------------------
 
-### FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending
+### FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending [*](https://github.com/bishun945/FCMm)
 
-[<i class="fab fa-r-project"></i>](https://github.com/bishun945/FCMm) package version 0.10.3 
+Version 0.10.3
 
 N/A
 
@@ -220,9 +215,9 @@ N/A
 **Bi S**, Li Y, Liu G
 
 
-### DAMATO: Data Management Toolbox
+### DAMATO: Data Management Toolbox [*](https://github.com/bishun945/DAMATO)
 
-[<i class="fab fa-r-project"></i>](https://github.com/bishun945/DAMATO) package version 0.0.7
+Version 0.0.7
 
 N/A
 
@@ -231,9 +226,9 @@ N/A
 **Bi S**, Li Y, Cheng X
 
 
-### seadasr: Running seadas with R
+### seadasr: Running seadas with R [*](https://github.com/bishun945/seadasr)
 
-[<i class="fab fa-r-project"></i>](https://github.com/bishun945/seadasr) package version 0.0.1 (*private*)
+Version 0.0.1 (*private*)
 
 N/A
 
@@ -242,9 +237,9 @@ N/A
 **Bi S**, Liu G, Li Y
 
 
-### TSSIM: Time-Series-based Spatial Interpolation Method
+### TSSIM: Time-Series-based Spatial Interpolation Method [*](https://github.com/bishun945/TSSIM)
 
-[<i class="fab fa-r-project"></i>](https://github.com/bishun945/TSSIM) package version 0.0.2 (*private*)
+Version 0.0.2 (*private*)
 
 N/A
 
@@ -286,7 +281,7 @@ N/A
 
 2018
 
-### the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition
+### the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition [*](http://www.escience.net.cn/nav/index/prize/details?awardId=29)
 
 Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (*in Chinese*)
 
@@ -297,7 +292,7 @@ N/A
 Bi S, Hong T, Zhou L
 
 
-### the First Prize of the 1st Hyerspectral Imagery Processing Competition - Orbit Cup
+### the First Prize of the 1st Hyerspectral Imagery Processing Competition - Orbit Cup [*](https://ohs.obtdata.com/#/newsDetail?id=12)
 
 Title: Evaluation of the application of ZH-1 data in remote sensing of water color in inland lakes (*in Chinese*)
 
