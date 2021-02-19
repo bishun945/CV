@@ -415,8 +415,12 @@ h2 {
   break-inside: avoid;
 }
 
-.break-after-me {
+/*.break-after-me {
   break-after: page;
+}*/
+
+.main-block {
+  break-inside: avoid-page;
 }
 
 /* Paged.js viewer */

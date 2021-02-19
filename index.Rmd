@@ -126,7 +126,7 @@ N/A
 
 **Bi S**, Li Y, Lyu H, Mu M, Xu J, Lei S, Miao S, Hong T, Zhou L
 
-### [Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations](https://www.mdpi.com/2072-4292/10/7/1002)
+### [Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations](https://www.mdpi.com/2072-4292/10/7/1002) 
 
 Remote Sensing, *10*(7), 1002, **IF 4.118**
 
