@@ -307,22 +307,13 @@ N/A
 
 2018
 
-### the Second Prize Scholarship
+### China National Scholarship
 
-Funded by Nanjing Normal University
-
-N/A
-
-2016
-
-### the First Prize Scholarship
-
-Funded by Nanjing Normal University
+Funded by Ministry of Education of the People's Republic of China
 
 N/A
 
-2017 - 2020
-
+2020
 
 ### Scholarship of Saiteng Fenghui
 
@@ -332,14 +323,23 @@ N/A
 
 2019
 
+### the First Prize Scholarship
 
-### China National Scholarship
-
-Funded by Ministry of Education of the People's Republic of China
+Funded by Nanjing Normal University
 
 N/A
 
-2020
+2017 - 2020
+
+### the Second Prize Scholarship
+
+Funded by Nanjing Normal University
+
+N/A
+
+2016
+
+
 
 
 Conferences and Presentations {data-icon=chalkboard}
