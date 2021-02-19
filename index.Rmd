@@ -84,31 +84,21 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 
 ### Nanjing Normal University
 
-M.S. in Remote Sensing of Environment
-
-Nanjing, China
-
-2016 - 2018
-
-Qualified for the Successive Master-Doctor Program in 2018
-
-### Nanjing Normal University
-
 Ph.D in Remote Sensing of Environment
 
 Nanjing, China
 
-2018 - Now
+2016 - Now
 
 Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Based on Soft Classification
-(expected to receive the degree in June 2019)
+(qualified for the Successive Master-Doctor Program in 2018 and expected to receive the degree in June 2021)
 
 
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 ### Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data [*](http://www.jlakes.org/ch/reader/view_abstract.aspx?doi=10.18307/2018.0312)
 
-Journal Lake Science, *30*(3), 701–712 (*in Chinese*) 
+Journal Lake Science, *30*(3), 701–712 (*in Chinese*), **IF 1.445**
 
 N/A
 
@@ -118,7 +108,7 @@ N/A
 
 ### Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations [*](https://www.mdpi.com/2072-4292/10/7/1002)
 
-Remote Sensing, *10*(7), 1002 
+Remote Sensing, *10*(7), 1002, **IF 4.118**
 
 N/A
 
@@ -128,7 +118,7 @@ N/A
 
 ### Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China [*](https://ieeexplore.ieee.org/abstract/document/8718009)
 
-IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459. 
+IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459,  **IF 5.855**
 
 N/A
 
@@ -138,7 +128,7 @@ N/A
 
 ### Optical classification of inland waters based on an improved Fuzzy C-Means method [*](https://www.osapublishing.org/DirectPDFAccess/3EEC055A-6E95-41EE-8265DED3519E96F2_423176/oe-27-24-34838.pdf?da=1&id=423176&seq=0&mobile=no)
 
-Optics Express, *27*(24), 34838–34856 
+Optics Express, *27*(24), 34838–34856,  **IF 3.669**
 
 N/A
 
@@ -148,7 +138,7 @@ N/A
 
 ### Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering
 
-IEEE Transactions on Geoscience and Remote Sensing, *press*
+IEEE Transactions on Geoscience and Remote Sensing, *press*, **IF  5.855**
 
 N/A
 
@@ -159,7 +149,7 @@ N/A
 <!-- others -->
 ### Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing [*](https://www.sciencedirect.com/science/article/pii/S0043135419309364)
 
-Water Research, *168*, 115162
+Water Research, *168*, 115162, **IF 9.13**
 
 N/A
 
@@ -169,7 +159,7 @@ Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
 
 ### An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters [*](https://www.sciencedirect.com/science/article/pii/S0034425720300171)
 
-Remote Sensing of Environment, *239*, 111648
+Remote Sensing of Environment, *239*, 111648, **IF 9.085**
 
 N/A
 
@@ -180,7 +170,7 @@ Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & other
 
 ### Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy [*](https://www.sciencedirect.com/science/article/pii/S0048969721003156)
 
-Science of the Total Environment, *770*, 145249 
+Science of the Total Environment, *770*, 145249, **IF 6.551**
 
 N/A
 
@@ -191,7 +181,7 @@ Xu J, Li Y, Lyu H, Lei S, Mu M, **Bi S**, Xu J, Xu X, Miao S, Li L, & others
 
 ### Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy [*](https://www.sciencedirect.com/science/article/pii/S0269749120364526)
 
-Environmental Pollution, *268*, 115763
+Environmental Pollution, *268*, 115763, **IF 6.793**
 
 N/A
 
