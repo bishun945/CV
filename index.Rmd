@@ -72,16 +72,6 @@ My current interest is to build an algorithm blending framework for estimating o
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Jiangsu Normal University
-
-B.S. in Remote Sensing Science and Technology
-
-Xuzhou, China
-
-2012 - 2016
-
-Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet Region Based on Meteorological Drought Composite Index
-
 ### Nanjing Normal University
 
 Ph.D in Remote Sensing of Environment
@@ -91,6 +81,16 @@ Nanjing, China
 2016 - Now
 
 Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Based on Soft Classification <br> (Qualified for the Successive Master-Doctor Program in 2018 and expected to receive the degree in June 2021)
+
+### Jiangsu Normal University
+
+B.S. in Remote Sensing Science and Technology
+
+Xuzhou, China
+
+2012 - 2016
+
+Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet Region Based on Meteorological Drought Composite Index
 
 
 Selected Publications {data-icon=book}
