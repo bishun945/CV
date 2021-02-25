@@ -17,7 +17,7 @@ Aside
 ![Shun Bi](./CV/photo2.jpg){width=60%}
 
 
-### Contact Info {#contact}
+### 联系方式 {#contact}
 <!-- -------------------------------------------------------------------------------- -->
 
 <!-- For more icons on https://fontawesome.com/ -->
@@ -27,31 +27,29 @@ Aside
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
-- For more information, please contact me via email.
+- 欢迎通过邮件或电话与我联系
 
 
-### Skills {#skills}
+### 技能 {#skills}
 <!-- -------------------------------------------------------------------------------- -->
 
-- Experienced in atmospheric correction, Chla algorithm and optical water clustering.
+- 精通水色影像大气校正、叶绿素a浓度估算算法与水体光学分类
 
-- Full experience in remote sensing image processing.
+- 编程与软件：R, Python, IDL, MATLAB, SeaDAS, SNAP, Ubuntu, macOS.
 
-- R, Python, IDL, MATLAB, SeaDAS, SNAP, Ubuntu, macOS.
+<!-- ### 语言  -->
 
-### Languages 
-
-Mandarin (native), English (written and oral)
+<!-- Mandarin (native), English (written and oral) -->
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This [**resume**](https://github.com/bishun945/CV) was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+本[**简历**](https://github.com/bishun945/CV)由R语言包[**pagedown**](https://github.com/rstudio/pagedown)制作而成
 
-Online [html](https://bishun945.github.io/CV/) | Download [pdf](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf)
+[在线阅读](https://bishun945.github.io/CV/) | [PDF下载](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf)
 
-Last updated on `r Sys.Date()`.
+更新日期：`r Sys.Date()`.
 
 
 
@@ -59,7 +57,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Shun Bi 毕顺 {#title}
+毕  顺 {#title}
 --------------------------------------------------------------------------------
 
 
@@ -69,36 +67,36 @@ Shun Bi 毕顺 {#title}
 My current interest is to build an algorithm blending framework for estimating optical active constitutes, such as Chlorophyll-a concentration, across Case I and II waters from remote sensing data. I am also interested in building Chla algorithms for specific water types (e.g., turbid Case II waters), column-integrated algal biomass for inland lakes, atmospheric correction, and data gap-filling for satellite imagery.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Nanjing Normal University
+### 南京师范大学
 
-Ph.D in Remote Sensing of Environment
+博士 地理环境遥感
 
-Nanjing, China
+中国 南京
 
-2016 - Now
+2016 - 至今
 
-Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Based on Soft Classification <br> (Qualified for the Successive Master-Doctor Program in 2018 and expected to receive the degree in June 2021)
+论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年9月毕业
 
-### Jiangsu Normal University
+### 江苏师范大学
 
-B.S. in Remote Sensing Science and Technology
+学士 遥感科学与技术
 
-Xuzhou, China
+中国 徐州
 
 2012 - 2016
 
-Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet Region Based on Meteorological Drought Composite Index
+论文题目：基于综合气象干旱指数的青藏地区1980-2010年干旱时空变化分析
 
 
-Selected Publications {data-icon=book}
+发表论文 {data-icon=book}
 --------------------------------------------------------------------------------
 
 ### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://ieeexplore.ieee.org/document/9361570)
 
-IEEE Transactions on Geoscience and Remote Sensing, *Early Access*, **IF  5.855**
+IEEE Transactions on Geoscience and Remote Sensing, *Early Access*, **JCR2, TOP, IF5.855**
 
 N/A
 
@@ -108,7 +106,7 @@ N/A
 
 ### [Optical classification of inland waters based on an improved Fuzzy C-Means method ](https://www.osapublishing.org/DirectPDFAccess/3EEC055A-6E95-41EE-8265DED3519E96F2_423176/oe-27-24-34838.pdf?da=1&id=423176&seq=0&mobile=no)
 
-Optics Express, *27*(24), 34838–34856,  **IF 3.669**
+Optics Express, *27*(24), 34838–34856,  **JCR2, TOP, IF3.669**
 
 N/A
 
@@ -118,7 +116,7 @@ N/A
 
 ### [Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China](https://ieeexplore.ieee.org/abstract/document/8718009) {.break-after-me}
 
-IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459,  **IF 5.855**
+IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459,  **JCR2, TOP, IF5.855**
 
 N/A
 
@@ -128,7 +126,7 @@ N/A
 
 ### [Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations](https://www.mdpi.com/2072-4292/10/7/1002) 
 
-Remote Sensing, *10*(7), 1002, **IF 4.118**
+Remote Sensing, *10*(7), 1002, **JCR2, IF4.118**
 
 N/A
 
@@ -137,22 +135,22 @@ N/A
 **Bi S**, Li Y, Wang Q, Lyu H, Liu G, Zheng Z, Du C, Mu M, Xu J, Lei S
 
 
-### [Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data](http://www.jlakes.org/ch/reader/view_abstract.aspx?doi=10.18307/2018.0312)
+### [基于OLCI数据的洱海叶绿素a浓度估算](http://www.jlakes.org/ch/reader/view_abstract.aspx?doi=10.18307/2018.0312)
 
-Journal Lake Science, *30*(3), 701–712 (*in Chinese*), **IF 1.445**
+湖泊科学, *30*(3), 701–712 (*in Chinese*), **EI, IF1.445**
 
 N/A
 
 2018
 
-**Bi S**, Li Y, Lu H, Zhu L, Mu M, Lei S, Wen S, Ding X
+**毕顺**, 李云梅, 吕恒, 朱利, 牟蒙, 雷少华, 徐杰, 温爽, 丁潇蕾
 
 
 
 <!-- others -->
 ### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://www.sciencedirect.com/science/article/pii/S0043135419309364)
 
-Water Research, *168*, 115162, **IF 9.13**
+Water Research, *168*, 115162, **JCR1, TOP, IF9.13**
 
 N/A
 
@@ -162,7 +160,7 @@ Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
 
 ### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://www.sciencedirect.com/science/article/pii/S0034425720300171)
 
-Remote Sensing of Environment, *239*, 111648, **IF 9.085**
+Remote Sensing of Environment, *239*, 111648, **JCR1, TOP, IF9.085**
 
 N/A
 
@@ -173,7 +171,7 @@ Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & other
 
 ### [Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy](https://www.sciencedirect.com/science/article/pii/S0048969721003156)
 
-Science of the Total Environment, *770*, 145249, **IF 6.551**
+Science of the Total Environment, *770*, 145249, **JCR2, TOP, IF6.551**
 
 N/A
 
@@ -184,7 +182,7 @@ Xu J, Li Y, Lyu H, Lei S, Mu M, **Bi S**, Xu J, Xu X, Miao S, Li L, & others
 
 ### [Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy](https://www.sciencedirect.com/science/article/pii/S0269749120364526)
 
-Environmental Pollution, *268*, 115763, **IF 6.793**
+Environmental Pollution, *268*, 115763, **JCR1, TOP, IF6.793**
 
 N/A
 
@@ -194,7 +192,7 @@ Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
 
 
 
-R Packages {data-icon=cubes}
+程序包 {data-icon=cubes}
 --------------------------------------------------------------------------------
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
