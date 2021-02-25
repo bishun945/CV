@@ -86,6 +86,11 @@ a{
   color: #000;
 }
 
+a:hover{
+  color: #FF00FF;
+  text-decoration: none;
+}
+
 img{
   max-width: 100%;
 }
@@ -450,5 +455,4 @@ h2 {
     width: unset;
   }
 }
-
 

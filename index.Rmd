@@ -96,9 +96,9 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
-### Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering
+### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://ieeexplore.ieee.org/document/9361570)
 
-IEEE Transactions on Geoscience and Remote Sensing, *press*, **IF  5.855**
+IEEE Transactions on Geoscience and Remote Sensing, *Early Access*, **IF  5.855**
 
 N/A
 
