@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Shun Bi" />
-    <meta name="date" content="2021-02-25" />
+    <meta name="date" content="2021-03-02" />
     <title>Shun Bi’s resume</title>
 
     
@@ -53,7 +53,7 @@
 <h2>Disclaimer</h2>
 <p>本<a href="https://github.com/bishun945/CV"><strong>简历</strong></a>由R语言包<a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>制作而成</p>
 <p><a href="https://bishun945.github.io/CV/">在线阅读</a> | <a href="https://raw.githubusercontent.com/bishun945/CV/main/index.pdf">PDF下载</a></p>
-<p>更新日期：2021-02-25.</p>
+<p>更新日期：2021-03-02.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -61,7 +61,8 @@
 <div id="title" class="section level2">
 <h2>毕 顺</h2>
 <!-- ### Currently searching for a PD position -->
-<p>My current interest is to build an algorithm blending framework for estimating optical active constitutes, such as Chlorophyll-a concentration, across Case I and II waters from remote sensing data. I am also interested in building Chla algorithms for specific water types (e.g., turbid Case II waters), column-integrated algal biomass for inland lakes, atmospheric correction, and data gap-filling for satellite imagery.</p>
+<p><strong>工作简介</strong> 我当前的研究工作是通过光学模糊聚类的方法构建出基于遥感反演光学复杂水体生物光学活性物质的混合计算框架，包括叶绿素a浓度、悬浮物浓度、有色可溶性有机物等，并将该框架应用于水色传感器，最终生产出高精度的水色产品。我其他的研究工作包括：对特定水体类型（如极浑浊二类水体）构建叶绿素a遥感算法、内陆湖泊柱总生物量的遥感估算、水色影像的大气校正方法以及卫星影像缺失值重构研究。</p>
+<p><strong>研究方向</strong> 水体光学分类、湖泊富营养化和水华遥感监测、叶绿素a遥感监测、二类水体遥感图像大气校正</p>
 </div>
 <div id="教育经历" class="section level2" data-icon="graduation-cap" data-concise="true">
 <h2>教育经历</h2>
@@ -70,7 +71,7 @@
 <p>博士 地理环境遥感</p>
 <p>中国 南京</p>
 <p>2016 - 至今</p>
-<p>论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年9月毕业</p>
+<p>论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年6月毕业</p>
 </div>
 <div id="江苏师范大学" class="section level3">
 <h3>江苏师范大学</h3>
@@ -151,48 +152,125 @@
 <h2>程序包</h2>
 <div id="fcmm-water-spectra-fuzzy-clustering-algorithm-assessment-and-blending" class="section level3">
 <h3><a href="https://github.com/bishun945/FCMm">FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending</a></h3>
-<p>Version 0.10.3</p>
+<p>版本0.10.3<br>
+基于优化FCM方法实现水体光谱的模糊聚类、算法评估以及叶绿素a的混合计算</p>
 <p>N/A</p>
 <p>2020</p>
 <p><strong>Bi S</strong>, Li Y, Liu G</p>
 </div>
 <div id="damato-data-management-toolbox" class="section level3">
 <h3><a href="https://github.com/bishun945/DAMATO">DAMATO: Data Management Toolbox</a></h3>
-<p>Version 0.0.7</p>
+<p>版本0.0.7<br>
+野外实验数据管理与质量控制工具</p>
 <p>N/A</p>
 <p>2020</p>
 <p><strong>Bi S</strong>, Li Y, Cheng X</p>
 </div>
+<div id="algal-game-solver-of-the-reaction-diffusion-taxis-model-of-phytoplankton-nutrients-and-light-in-water-column" class="section level3">
+<h3><a href="https://github.com/bishun945/AlgalGame">Algal Game: Solver of the reaction-diffusion-taxis model of phytoplankton, nutrients, and light in water column</a></h3>
+<p>版本0.1<br>
+求解关于浮游植物在营养盐与光照共同限制作用下“反应-扩散-趋性”的垂向一维方程组</p>
+<p>N/A</p>
+<p>2021</p>
+<p><strong>Bi S</strong></p>
+</div>
 <div id="seadasr-running-seadas-with-r" class="section level3">
 <h3><a href="https://github.com/bishun945/seadasr">seadasr: Running seadas with R</a></h3>
-<p>Version 0.0.1 (<em>private</em>)</p>
+<p>版本0.0.1 (<em>private</em>)<br>
+在R语言环境中调用SeaDAS命令实现水色影像处理的函数包</p>
 <p>N/A</p>
 <p>2020</p>
 <p><strong>Bi S</strong>, Liu G, Li Y</p>
 </div>
 <div id="tssim-time-series-based-spatial-interpolation-method" class="section level3">
 <h3><a href="https://github.com/bishun945/TSSIM">TSSIM: Time-Series-based Spatial Interpolation Method</a></h3>
-<p>Version 0.0.2 (<em>private</em>)</p>
+<p>版本0.0.2 (<em>private</em>)<br>
+基于时序相关性与DINEOF技术对影像实现缺失值插补的函数包</p>
 <p>N/A</p>
 <p>2019</p>
 <p><strong>Bi S</strong>, Li Y</p>
 </div>
 </div>
-<div id="awards-and-honors" class="section level2" data-icon="award">
-<h2>Awards and Honors</h2>
-<div id="the-third-prize-of-2017-nnu-graduate-mathematical-modeling-competition" class="section level3">
-<h3>the Third Prize of 2017 NNU Graduate Mathematical Modeling Competition</h3>
-<p>Title: Research on Feature Selection and Classifier Algorithm in Intrusion Detection (<em>in Chinese</em>)</p>
+<div id="课题项目" class="section level2" data-icon="clipboard">
+<h2>课题项目</h2>
+<div id="基于遥感技术的太湖蓝藻总生物量三维时空格局研究" class="section level3">
+<h3>基于遥感技术的太湖蓝藻总生物量三维时空格局研究</h3>
+<p>江苏省研究生科研与实践创新计划 KYCX18_1205，已结题<br>
+&gt; 项目负责人，负责撰写项目申请书与结题报告，组织和开展在太湖的遥感地面实验，室内样品分析实验，卫星数据的获取与处理以及构建太湖柱总生物量遥感估算模型的工作。</p>
 <p>N/A</p>
-<p>2017</p>
-<p>Bi S, Chen B, Ding X</p>
+<p>2018</p>
 </div>
-<div id="the-second-prize-of-2017-national-graduate-mathematical-modeling-competition" class="section level3">
-<h3>the Second Prize of 2017 National Graduate Mathematical Modeling Competition</h3>
-<p>Title: Foreground target extraction based on surveillance video (<em>in Chinese</em>)</p>
+<div id="基于高光谱的黑臭水体分级识别及其污染源判别研究" class="section level3">
+<h3>基于高光谱的黑臭水体分级识别及其污染源判别研究</h3>
+<p>国家自然科学基金项目，在研<br>
+&gt; 项目主要参与人，负责城镇水体遥感光谱测量、黑臭水体高光谱分级以及高空间分辨率影像的处理工作。</p>
+<p>N/A</p>
+<p>2020</p>
+</div>
+<div id="环境保护遥感动态监测信息服务系统二期" class="section level3">
+<h3>环境保护遥感动态监测信息服务系统（二期）</h3>
+<p>国家高分辨率对地观测重大科技专项项目 05-Y30B01-9001-19/20-2，在研<br>
+&gt; 项目主要参与人，负责归纳与评价一期项目中高分系列卫星衍生的遥感算法和数据产品，并在二期项目中开展对高分五号卫星搭载的AHSI与VIMS传感器数据的测试，制作并协助发布高分五号首套水色数据产品。</p>
+<p>N/A</p>
+<p>2019</p>
+</div>
+<div id="城镇水体水质高分遥感与地面协同监测关键技术研究" class="section level3">
+<h3>城镇水体水质高分遥感与地面协同监测关键技术研究</h3>
+<p>国家重点研发计划地球观测与导航重点专项 2017YFB0503902，在研<br>
+&gt; 项目参与人，负责在城乡生态环境综合监测空间信息服务及应用示范项目测试中提供遥感算法与影像应用结果的真实性检验，开发R语言真实性检验函数包，撰写真实性检验报告书。</p>
 <p>N/A</p>
 <p>2017</p>
-<p>Bi S, Chen B, Ding X</p>
+</div>
+<div id="国家水环境监测监控及流域水环境大数据平台构建关键技术" class="section level3">
+<h3>国家水环境监测监控及流域水环境大数据平台构建关键技术</h3>
+<p>水体污染控制与治理国家科技重大专项 2017ZX07302，在研<br>
+&gt; 项目参与人，组织与开展无锡、扬州等地的地面遥感实验，参与建立城市黑臭水体判别标准与色度分级表，支持高分二号高空间分辨率影像数据处理，撰写技术报告。</p>
+<p>N/A</p>
+<p>2017</p>
+</div>
+</div>
+<div id="奖学金" class="section level2" data-icon="hands-helping">
+<h2>奖学金</h2>
+<div id="中国国家奖学金" class="section level3">
+<h3>中国国家奖学金</h3>
+<p>中华人民共和国教育部</p>
+<p>N/A</p>
+<p>2020</p>
+</div>
+<div id="赛腾丰慧奖学金" class="section level3">
+<h3>赛腾丰慧奖学金</h3>
+<p>苏州赛科特精密电子有限公司</p>
+<p>N/A</p>
+<p>2019</p>
+</div>
+<div id="校一等奖学金" class="section level3">
+<h3>校一等奖学金</h3>
+<p>南京师范大学</p>
+<p>N/A</p>
+<p>2017 - 2020</p>
+</div>
+<div id="校二等奖学金" class="section level3">
+<h3>校二等奖学金</h3>
+<p>南京师范大学</p>
+<p>N/A</p>
+<p>2016</p>
+</div>
+</div>
+<div id="奖项与荣誉" class="section level2" data-icon="award">
+<h2>奖项与荣誉</h2>
+<div id="南师大研究生数学建模校内竞赛三等奖" class="section level3">
+<h3>南师大研究生数学建模校内竞赛三等奖</h3>
+<p>参赛题目：入侵检测中的特征选择和分类器算法研究</p>
+<p>N/A</p>
+<p>2017</p>
+<p><strong>Bi S</strong>, Chen B, Ding X</p>
+</div>
+<div id="华为杯第十四届中国研究生数学建模竞赛二等奖" class="section level3">
+<h3>“华为杯”第十四届中国研究生数学建模竞赛二等奖</h3>
+<p>参赛题目：基于监控视频的前景目标提取</p>
+<p>N/A</p>
+<p>2017</p>
+<p><strong>Bi S</strong>, Chen B, Ding X</p>
 </div>
 <div id="esa-most-china-dragon-4-cooperation-best-poster-award" class="section level3">
 <h3>ESA-MOST China Dragon 4 Cooperation: BEST POSTER AWARD</h3>
@@ -200,126 +278,93 @@
 <p>N/A</p>
 <p>2018</p>
 </div>
-<div id="the-third-prize-of-the-6th-sharing-cup-college-student-science-and-technology-resources-sharing-serveice-innovation-competition" class="section level3">
-<h3><a href="http://www.escience.net.cn/nav/index/prize/details?awardId=29">the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition</a></h3>
-<p>Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (<em>in Chinese</em>)</p>
+<div id="第六届共享杯大学生科技资源共享服务创新大赛三等奖" class="section level3">
+<h3><a href="http://www.escience.net.cn/nav/index/prize/details?awardId=29">第六届“共享杯”大学生科技资源共享服务创新大赛三等奖</a></h3>
+<p>参赛题目：基于Sentinel-3 OLCI数据的内陆湖泊大气校正方法评估</p>
 <p>N/A</p>
 <p>2018</p>
-<p>Bi S, Hong T, Zhou L</p>
+<p><strong>Bi S</strong>, Hong T, Zhou L</p>
 </div>
-<div id="the-first-prize-of-the-1st-hyerspectral-imagery-processing-competition---orbit-cup" class="section level3">
-<h3><a href="https://ohs.obtdata.com/#/newsDetail?id=12">the First Prize of the 1st Hyerspectral Imagery Processing Competition - Orbit Cup</a></h3>
-<p>Title: Evaluation of the application of ZH-1 data in remote sensing of water color in inland lakes (<em>in Chinese</em>)</p>
+<div id="第一届欧比特杯高光谱遥感影像智能处理行业应用大赛一等奖" class="section level3">
+<h3><a href="https://ohs.obtdata.com/#/newsDetail?id=12">第一届“欧比特杯”高光谱遥感影像智能处理行业应用大赛一等奖</a></h3>
+<p>参赛题目：珠海一号数据在内陆湖泊水色遥感中的应用评估</p>
 <p>N/A</p>
 <p>2019</p>
-<p>Bi S, Hong T, Li L</p>
+<p><strong>Bi S</strong>, Hong T, Li L</p>
 </div>
 </div>
-<div id="grants-and-fellowships" class="section level2" data-icon="hands-helping">
-<h2>Grants and Fellowships</h2>
-<div id="postgraduate-research-practice-innovation-program-of-jiangsu-province-china" class="section level3">
-<h3>Postgraduate Research &amp; Practice Innovation Program of Jiangsu province, China</h3>
-<p>Project title: Research on the three-dimensional spatiotemporal pattern of the total biomass of cyanobacteria in Taihu Lake based on remote sensing technology (<em>in Chinese</em>)</p>
-<p>N/A</p>
-<p>2018</p>
-</div>
-<div id="china-national-scholarship" class="section level3">
-<h3>China National Scholarship</h3>
-<p>Funded by Ministry of Education of the People’s Republic of China</p>
-<p>N/A</p>
-<p>2020</p>
-</div>
-<div id="scholarship-of-saiteng-fenghui" class="section level3">
-<h3>Scholarship of Saiteng Fenghui</h3>
-<p>Funded by Suzhou Secote Precision Electronic Co., Ltd.</p>
-<p>N/A</p>
-<p>2019</p>
-</div>
-<div id="the-first-prize-scholarship" class="section level3">
-<h3>the First Prize Scholarship</h3>
-<p>Funded by Nanjing Normal University</p>
-<p>N/A</p>
-<p>2017 - 2020</p>
-</div>
-<div id="the-second-prize-scholarship" class="section level3">
-<h3>the Second Prize Scholarship</h3>
-<p>Funded by Nanjing Normal University</p>
-<p>N/A</p>
-<p>2016</p>
-</div>
-</div>
-<div id="conferences-and-presentations" class="section level2" data-icon="chalkboard">
-<h2>Conferences and Presentations</h2>
+<div id="学术活动" class="section level2" data-icon="chalkboard">
+<h2>学术活动</h2>
 <div id="algal-game" class="section level3">
 <h3><a href="https://bishun945.github.io/presentation20201216/">ALGAL GAME</a></h3>
 <p>N/A</p>
-<p>Nanjing, China</p>
+<p>中国 南京</p>
 <p>2020</p>
 </div>
-<div id="national-forum-for-doctoral-students-in-geographic-information-science" class="section level3">
-<h3>National Forum for Doctoral Students in Geographic Information Science</h3>
+<div id="第九届全国地理信息科学博士生学术论坛" class="section level3">
+<h3>第九届全国地理信息科学博士生学术论坛</h3>
 <p>N/A</p>
-<p>Online</p>
+<p>在线</p>
 <p>2020</p>
 </div>
-<div id="the-2nd-wetland-remote-sensing-conference-in-china" class="section level3">
-<h3>the 2nd Wetland Remote Sensing Conference in China</h3>
+<div id="第二届中国湿地遥感大会" class="section level3">
+<h3><a href="https://www.bilibili.com/video/BV1Lk4y127Vc?from=search&amp;seid=6588322506573177186">第二届中国湿地遥感大会</a></h3>
 <p>N/A</p>
-<p>Online</p>
+<p>在线</p>
 <p>2020</p>
 </div>
-<div id="the-19th-water-color-remote-sensing-conference-in-china" class="section level3">
-<h3>the 19th Water Color Remote Sensing Conference in China</h3>
+<div id="第十九届中国水色遥感大会" class="section level3">
+<h3>第十九届中国水色遥感大会</h3>
 <p>N/A</p>
-<p>Sanya, China</p>
+<p>中国 三亚</p>
 <p>2019</p>
 </div>
-<div id="the-1st-wetland-remote-sensing-conference-in-china" class="section level3">
-<h3>the 1st Wetland Remote Sensing Conference in China</h3>
+<div id="第一届中国湿地遥感大会" class="section level3">
+<h3>第一届中国湿地遥感大会</h3>
 <p>N/A</p>
-<p>Changchung, China</p>
+<p>中国 长春</p>
 <p>2019</p>
 </div>
-<div id="the-18th-water-color-remote-sensing-conference-in-china" class="section level3">
-<h3>the 18th Water Color Remote Sensing Conference in China</h3>
+<div id="第十八届中国水色遥感大会" class="section level3">
+<h3>第十八届中国水色遥感大会</h3>
 <p>N/A</p>
-<p>Zhanjiang, China</p>
+<p>中国 湛江</p>
 <p>2018</p>
 </div>
-<div id="national-forum-for-doctoral-students-in-geographic-information-science-1" class="section level3">
-<h3>National Forum for Doctoral Students in Geographic Information Science</h3>
+<div id="第八届全国地理信息科学博士生学术论坛" class="section level3">
+<h3>第八届全国地理信息科学博士生学术论坛</h3>
 <p>N/A</p>
-<p>Nanjing, China</p>
+<p>中国 南京</p>
 <p>2018</p>
 </div>
 <div id="esa-most-dragon-4-programme---advanced-training-course-in-ocean-coastal-remote-sensing" class="section level3">
 <h3>ESA-MOST DRAGON 4 PROGRAMME - Advanced Training Course in Ocean &amp; Coastal Remote Sensing</h3>
 <p>N/A</p>
-<p>Shenzhen, China</p>
+<p>中国 深圳</p>
 <p>2018</p>
 </div>
-<div id="jiangsu-university-geography-postgradutae-forum" class="section level3">
-<h3>Jiangsu University Geography Postgradutae Forum</h3>
+<div id="第七届全国地理信息科学博士生学术论坛" class="section level3">
+<h3>第七届全国地理信息科学博士生学术论坛</h3>
 <p>N/A</p>
-<p>Nanjing, China</p>
+<p>中国 南京</p>
 <p>2018</p>
 </div>
-<div id="the-1st-china-plateau-lake-forum" class="section level3">
-<h3>the 1st China Plateau Lake Forum</h3>
+<div id="第一届高原湖泊高峰论坛" class="section level3">
+<h3>第一届高原湖泊高峰论坛</h3>
 <p>N/A</p>
-<p>Kunming, China</p>
+<p>中国 昆明</p>
 <p>2017</p>
 </div>
-<div id="the-5th-graduate-forum-of-jiangsu-society-of-oceanology-and-lomnology" class="section level3">
-<h3>the 5th Graduate Forum of Jiangsu Society of Oceanology and Lomnology</h3>
+<div id="第五届海洋湖沼学会议" class="section level3">
+<h3>第五届海洋湖沼学会议</h3>
 <p>N/A</p>
-<p>Nanjing, China</p>
+<p>中国 南京</p>
 <p>2017</p>
 </div>
-<div id="jiangsu-university-geography-postgradutae-forum-1" class="section level3">
-<h3>Jiangsu University Geography Postgradutae Forum</h3>
+<div id="江苏高校地理学研究生论坛" class="section level3">
+<h3>江苏高校地理学研究生论坛</h3>
 <p>N/A</p>
-<p>Nanjing, China</p>
+<p>中国 南京</p>
 <p>2017</p>
 <div id="references" class="section level4 aside">
 <h4>References</h4>

@@ -64,8 +64,9 @@ Main
 
 <!-- ### Currently searching for a PD position -->
 
-My current interest is to build an algorithm blending framework for estimating optical active constitutes, such as Chlorophyll-a concentration, across Case I and II waters from remote sensing data. I am also interested in building Chla algorithms for specific water types (e.g., turbid Case II waters), column-integrated algal biomass for inland lakes, atmospheric correction, and data gap-filling for satellite imagery.
+**工作简介** 我当前的研究工作是通过光学模糊聚类的方法构建出基于遥感反演光学复杂水体生物光学活性物质的混合计算框架，包括叶绿素a浓度、悬浮物浓度、有色可溶性有机物等，并将该框架应用于水色传感器，最终生产出高精度的水色产品。我其他的研究工作包括：对特定水体类型（如极浑浊二类水体）构建叶绿素a遥感算法、内陆湖泊柱总生物量的遥感估算、水色影像的大气校正方法以及卫星影像缺失值重构研究。
 
+**研究方向** 水体光学分类、湖泊富营养化和水华遥感监测、叶绿素a遥感监测、二类水体遥感图像大气校正
 
 教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -78,7 +79,7 @@ My current interest is to build an algorithm blending framework for estimating o
 
 2016 - 至今
 
-论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年9月毕业
+论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年6月毕业
 
 ### 江苏师范大学
 
@@ -197,7 +198,8 @@ Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
 
-Version 0.10.3
+版本0.10.3<br>
+基于优化FCM方法实现水体光谱的模糊聚类、算法评估以及叶绿素a的混合计算
 
 N/A
 
@@ -208,7 +210,8 @@ N/A
 
 ### [DAMATO: Data Management Toolbox](https://github.com/bishun945/DAMATO)
 
-Version 0.0.7
+版本0.0.7<br>
+野外实验数据管理与质量控制工具
 
 N/A
 
@@ -216,10 +219,21 @@ N/A
 
 **Bi S**, Li Y, Cheng X
 
+### [Algal Game: Solver of the reaction-diffusion-taxis model of phytoplankton, nutrients, and light in water column](https://github.com/bishun945/AlgalGame)
+
+版本0.1<br>
+求解关于浮游植物在营养盐与光照共同限制作用下“反应-扩散-趋性”的垂向一维方程组
+
+N/A
+
+2021
+
+**Bi S**
 
 ### [seadasr: Running seadas with R](https://github.com/bishun945/seadasr)
 
-Version 0.0.1 (*private*)
+版本0.0.1 (*private*)<br>
+在R语言环境中调用SeaDAS命令实现水色影像处理的函数包
 
 N/A
 
@@ -230,7 +244,8 @@ N/A
 
 ### [TSSIM: Time-Series-based Spatial Interpolation Method](https://github.com/bishun945/TSSIM)
 
-Version 0.0.2 (*private*)
+版本0.0.2 (*private*)<br>
+基于时序相关性与DINEOF技术对影像实现缺失值插补的函数包
 
 N/A
 
@@ -238,31 +253,116 @@ N/A
 
 **Bi S**, Li Y
 
-
-
-
-Awards and Honors {data-icon=award}
+课题项目 {data-icon=clipboard}
 --------------------------------------------------------------------------------
 
-### the Third Prize of 2017 NNU Graduate Mathematical Modeling Competition
+### 基于遥感技术的太湖蓝藻总生物量三维时空格局研究
 
-Title: Research on Feature Selection and Classifier Algorithm in Intrusion Detection (*in Chinese*)
+江苏省研究生科研与实践创新计划 KYCX18_1205，已结题<br>
+> 项目负责人，负责撰写项目申请书与结题报告，组织和开展在太湖的遥感地面实验，室内样品分析实验，卫星数据的获取与处理以及构建太湖柱总生物量遥感估算模型的工作。
+
+N/A
+
+2018
+
+
+### 基于高光谱的黑臭水体分级识别及其污染源判别研究
+
+国家自然科学基金项目，在研<br>
+> 项目主要参与人，负责城镇水体遥感光谱测量、黑臭水体高光谱分级以及高空间分辨率影像的处理工作。
+
+N/A
+
+2020
+
+### 环境保护遥感动态监测信息服务系统（二期） 
+
+国家高分辨率对地观测重大科技专项项目 05-Y30B01-9001-19/20-2，在研<br>
+> 项目主要参与人，负责归纳与评价一期项目中高分系列卫星衍生的遥感算法和数据产品，并在二期项目中开展对高分五号卫星搭载的AHSI与VIMS传感器数据的测试，制作并协助发布高分五号首套水色数据产品。
+
+N/A
+
+2019
+
+### 城镇水体水质高分遥感与地面协同监测关键技术研究
+
+国家重点研发计划地球观测与导航重点专项 2017YFB0503902，在研<br>
+> 项目参与人，负责在城乡生态环境综合监测空间信息服务及应用示范项目测试中提供遥感算法与影像应用结果的真实性检验，开发R语言真实性检验函数包，撰写真实性检验报告书。
 
 N/A
 
 2017
 
-Bi S, Chen B, Ding X
+### 国家水环境监测监控及流域水环境大数据平台构建关键技术
 
-### the Second Prize of 2017 National Graduate Mathematical Modeling Competition
-
-Title: Foreground target extraction based on surveillance video (*in Chinese*)
+水体污染控制与治理国家科技重大专项 2017ZX07302，在研<br>
+> 项目参与人，组织与开展无锡、扬州等地的地面遥感实验，参与建立城市黑臭水体判别标准与色度分级表，支持高分二号高空间分辨率影像数据处理，撰写技术报告。
 
 N/A
 
 2017
 
-Bi S, Chen B, Ding X
+
+
+
+奖学金 {data-icon=hands-helping}
+--------------------------------------------------------------------------------
+
+### 中国国家奖学金
+
+中华人民共和国教育部
+
+N/A
+
+2020
+
+### 赛腾丰慧奖学金
+
+苏州赛科特精密电子有限公司
+
+N/A
+
+2019
+
+### 校一等奖学金
+
+南京师范大学
+
+N/A
+
+2017 - 2020
+
+### 校二等奖学金
+
+南京师范大学
+
+N/A
+
+2016
+
+
+奖项与荣誉 {data-icon=award}
+--------------------------------------------------------------------------------
+
+### 南师大研究生数学建模校内竞赛三等奖
+
+参赛题目：入侵检测中的特征选择和分类器算法研究
+
+N/A
+
+2017
+
+**Bi S**, Chen B, Ding X
+
+### “华为杯”第十四届中国研究生数学建模竞赛二等奖
+
+参赛题目：基于监控视频的前景目标提取
+
+N/A
+
+2017
+
+**Bi S**, Chen B, Ding X
 
 ### ESA-MOST China Dragon 4 Cooperation: BEST POSTER AWARD
 
@@ -272,131 +372,88 @@ N/A
 
 2018
 
-### [the Third Prize of the 6th Sharing Cup College Student Science and Technology Resources sharing serveice innovation competition](http://www.escience.net.cn/nav/index/prize/details?awardId=29)
+### [第六届“共享杯”大学生科技资源共享服务创新大赛三等奖](http://www.escience.net.cn/nav/index/prize/details?awardId=29)
 
-Title: Evaluation of atmospheric correction methods for inland lakes based on Sentinel-3 OLCI data (*in Chinese*)
-
-N/A
-
-2018
-
-Bi S, Hong T, Zhou L
-
-
-### [the First Prize of the 1st Hyerspectral Imagery Processing Competition - Orbit Cup](https://ohs.obtdata.com/#/newsDetail?id=12)
-
-Title: Evaluation of the application of ZH-1 data in remote sensing of water color in inland lakes (*in Chinese*)
-
-N/A
-
-2019
-
-Bi S, Hong T, Li L
-
-
-Grants and Fellowships {data-icon=hands-helping}
---------------------------------------------------------------------------------
-
-### Postgraduate Research & Practice Innovation Program of Jiangsu province, China
-
-Project title: Research on the three-dimensional spatiotemporal pattern of the total biomass of cyanobacteria in Taihu Lake based on remote sensing technology (*in Chinese*)
+参赛题目：基于Sentinel-3 OLCI数据的内陆湖泊大气校正方法评估
 
 N/A
 
 2018
 
-### China National Scholarship
+**Bi S**, Hong T, Zhou L
 
-Funded by Ministry of Education of the People's Republic of China
 
-N/A
+### [第一届“欧比特杯”高光谱遥感影像智能处理行业应用大赛一等奖](https://ohs.obtdata.com/#/newsDetail?id=12)
 
-2020
-
-### Scholarship of Saiteng Fenghui
-
-Funded by Suzhou Secote Precision Electronic Co., Ltd.
+参赛题目：珠海一号数据在内陆湖泊水色遥感中的应用评估
 
 N/A
 
 2019
 
-### the First Prize Scholarship
-
-Funded by Nanjing Normal University
-
-N/A
-
-2017 - 2020
-
-### the Second Prize Scholarship
-
-Funded by Nanjing Normal University
-
-N/A
-
-2016
+**Bi S**, Hong T, Li L
 
 
 
 
-Conferences and Presentations {data-icon=chalkboard}
+
+学术活动 {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
 ### [ALGAL GAME](https://bishun945.github.io/presentation20201216/)
 
 N/A
 
-Nanjing, China
+中国 南京
 
 2020
 
 
-### National Forum for Doctoral Students in Geographic Information Science
+### 第九届全国地理信息科学博士生学术论坛
 
 N/A
 
-Online
+在线
 
 2020
 
-### the 2nd Wetland Remote Sensing Conference in China
+### [第二届中国湿地遥感大会](https://www.bilibili.com/video/BV1Lk4y127Vc?from=search&seid=6588322506573177186)
 
 N/A
 
-Online
+在线
 
 2020
 
-### the 19th Water Color Remote Sensing Conference in China
+### 第十九届中国水色遥感大会
 
 N/A
 
-Sanya, China
+中国 三亚
 
 2019
 
-### the 1st Wetland Remote Sensing Conference in China
+### 第一届中国湿地遥感大会
 
 N/A
 
-Changchung, China
+中国 长春
 
 2019
 
-### the 18th Water Color Remote Sensing Conference in China
+### 第十八届中国水色遥感大会
 
 N/A
 
-Zhanjiang, China
+中国 湛江
 
 2018
 
-### National Forum for Doctoral Students in Geographic Information Science
+### 第八届全国地理信息科学博士生学术论坛
 
 N/A
 
-Nanjing, China
+中国 南京
 
 2018
 
@@ -404,39 +461,39 @@ Nanjing, China
 
 N/A
 
-Shenzhen, China
+中国 深圳
 
 2018
 
-### Jiangsu University Geography Postgradutae Forum
+### 第七届全国地理信息科学博士生学术论坛
 
 N/A
 
-Nanjing, China
+中国 南京
 
 2018
 
-### the 1st China Plateau Lake Forum
+### 第一届高原湖泊高峰论坛
 
 N/A
 
-Kunming, China
+中国 昆明
 
 2017
 
-### the 5th Graduate Forum of Jiangsu Society of Oceanology and Lomnology
+### 第五届海洋湖沼学会议
 
 N/A
 
-Nanjing, China
+中国 南京
 
 2017
 
-### Jiangsu University Geography Postgradutae Forum
+### 江苏高校地理学研究生论坛
 
 N/A
 
-Nanjing, China
+中国 南京
 
 2017
 
