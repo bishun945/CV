@@ -1,5 +1,4 @@
 # README
-:mortar_board: curriculum vitae of Shun Bi
 
 Hi guys,
 
