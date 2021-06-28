@@ -10,6 +10,22 @@ output:
 knit: pagedown::chrome_print
 ---
 
+```{css echo=FALSE}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: blue;
+}
+
+body{
+  font-family: "Arial"
+}
+```
+
+
 Aside
 ================================================================================
 
@@ -47,14 +63,11 @@ Mandarin (native), English (written and oral)
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This [**resume**](https://github.com/bishun945/CV) was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This [**resume**](https://github.com/bishun945/CV) was created by [**pagedown**](https://github.com/rstudio/pagedown)
 
-Online [html](https://bishun945.github.io/CV/) | Download [pdf](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf)
+Online [html](https://bishun945.github.io/CV/) | Download [pdf](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf) | [中文pdf](https://raw.githubusercontent.com/bishun945/CV/main/%E6%AF%95%E9%A1%BA%20%E7%AE%80%E5%8E%86%20%E4%B8%AD%E6%96%87.pdf)
 
-Last updated on `r Sys.Date()`.
-
-
-
+Last updated on `r Sys.Date()`
 
 Main
 ================================================================================
@@ -74,13 +87,13 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Nanjing Normal University
 
-Ph.D in Remote Sensing of Environment
+Ph.D in Remote Sensing of Geo-Environment
 
 Nanjing, China
 
-2016 - Now
+2016 - 2021
 
-Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Based on Soft Classification <br> (Qualified for the Successive Master-Doctor Program in 2018 and expected to receive the degree in June 2021)
+Thesis: Remote Sensing of Column-integrated Algal Biomass for Inland Waters Based on Soft Classification <br> (Qualified for the Successive Master-Doctor Program in 2018)
 
 ### Jiangsu Normal University
 
@@ -199,25 +212,34 @@ R Packages {data-icon=cubes}
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
 
-Version 0.10.3
+Version 0.11.1
 
 N/A
 
-2020
+2021
 
 **Bi S**, Li Y, Liu G
 
 
 ### [DAMATO: Data Management Toolbox](https://github.com/bishun945/DAMATO)
 
-Version 0.0.7
+Version 0.0.8
 
 N/A
 
-2020
+2021
 
 **Bi S**, Li Y, Cheng X
 
+### [Algal Game: Solver of the reaction-diffusion-taxis model of phytoplankton, nutrients, and light in water column](https://github.com/bishun945/AlgalGame)
+
+Version 0.1
+
+N/A
+
+2021
+
+**Bi S**, Li Y, Li J
 
 ### [seadasr: Running seadas with R](https://github.com/bishun945/seadasr)
 
@@ -295,6 +317,14 @@ N/A
 
 Bi S, Hong T, Li L
 
+### Outstanding Graduate in Nanjing Normal University
+
+N/A
+
+N/A
+
+2021
+
 
 Grants and Fellowships {data-icon=hands-helping}
 --------------------------------------------------------------------------------
@@ -344,6 +374,16 @@ N/A
 
 Conferences and Presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [Looking back on my PhD](https://bishun945.github.io/Looking-back-on-my-PhD/)
+
+N/A
+
+Nanjing, China
+
+2021
+
+
 
 ### [ALGAL GAME](https://bishun945.github.io/presentation20201216/)
 

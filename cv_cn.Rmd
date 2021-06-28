@@ -10,6 +10,21 @@ output:
 knit: pagedown::chrome_print
 ---
 
+```{css echo=FALSE}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: blue;
+}
+
+body{
+  font-family: "黑体"
+}
+```
+
 Aside
 ================================================================================
 
@@ -27,7 +42,7 @@ Aside
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
-- 欢迎通过邮件或电话与我联系
+- 欢迎您通过邮件或电话与我联系
 
 
 ### 技能 {#skills}
@@ -45,11 +60,11 @@ Aside
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-本[**简历**](https://github.com/bishun945/CV)由R语言包[**pagedown**](https://github.com/rstudio/pagedown)制作而成
+[**简历**](https://github.com/bishun945/CV)由R语言包[**pagedown**](https://github.com/rstudio/pagedown)制作而成
 
-[在线阅读](https://bishun945.github.io/CV/) | [PDF下载](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf)
+[在线阅读](https://bishun945.github.io/CV/) | [PDF下载](https://raw.githubusercontent.com/bishun945/CV/main/index.pdf) | [中文pdf](https://raw.githubusercontent.com/bishun945/CV/main/%E6%AF%95%E9%A1%BA%20%E7%AE%80%E5%8E%86%20%E4%B8%AD%E6%96%87.pdf)
 
-更新日期：`r Sys.Date()`.
+更新日期：`r Sys.Date()`
 
 
 
@@ -77,9 +92,9 @@ Main
 
 中国 南京
 
-2016 - 至今
+2016 - 2021
 
-论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位，预期2021年6月毕业
+论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位
 
 ### 江苏师范大学
 
@@ -198,24 +213,24 @@ Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
 
-版本0.10.3<br>
+版本0.11.1<br>
 基于优化FCM方法实现水体光谱的模糊聚类、算法评估以及叶绿素a的混合计算
 
 N/A
 
-2020
+2021
 
 **Bi S**, Li Y, Liu G
 
 
 ### [DAMATO: Data Management Toolbox](https://github.com/bishun945/DAMATO)
 
-版本0.0.7<br>
+版本0.0.8<br>
 野外实验数据管理与质量控制工具
 
 N/A
 
-2020
+2021
 
 **Bi S**, Li Y, Cheng X
 
@@ -393,12 +408,25 @@ N/A
 
 **Bi S**, Hong T, Li L
 
+### 南京师范大学优秀毕业生
 
+N/A
 
+N/A
+
+2021
 
 
 学术活动 {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [Looking back on my PhD](https://bishun945.github.io/Looking-back-on-my-PhD/)
+
+N/A
+
+中国 南京
+
+2021
 
 ### [ALGAL GAME](https://bishun945.github.io/presentation20201216/)
 
@@ -499,30 +527,13 @@ N/A
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ::: aside
-#### References
+#### 参考
 
-Yunmei Li, Ph.D., Professor <br>
-School of Geography <br>
-Nanjing Normal University <br>
-Nanjing, China <br>
+李云梅 教授 <br>
+地理科学学院 <br>
+南京师范大学 <br>
+中国 南京 <br>
 liyunmei@njnu.edu.cn
 
 :::
