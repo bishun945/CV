@@ -34,12 +34,13 @@ Aside
 
 
 ### Contact Info {#contact}
-<!-- -------------------------------------------------------------------------------- -->
+<!----------------------------------------------------------------------------->
 
 <!-- For more icons on https://fontawesome.com/ -->
 
-- <i class="fa fa-envelope"></i> bishun1994@foxmail.com
-- <i class="fa fa-phone"></i> +86 156-5190-9539
+- <i class="fa fa-envelope"></i> Shun.Bi@hereon.de
+<!-- - <i class="fa fa-phone"></i> +86 156-5190-9539 -->
+- <i class="fa fa-phone"></i> +49 152-5955-2657
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
@@ -47,7 +48,7 @@ Aside
 
 
 ### Skills {#skills}
-<!-- -------------------------------------------------------------------------------- -->
+<!----------------------------------------------------------------------------->
 
 - Experienced in atmospheric correction, Chla algorithm and optical water clustering.
 
@@ -81,6 +82,18 @@ Shun Bi 毕顺 {#title}
 
 My current interest is to build an algorithm blending framework for estimating optical active constitutes, such as Chlorophyll-a concentration, across Case I and II waters from remote sensing data. I am also interested in building Chla algorithms for specific water types (e.g., turbid Case II waters), column-integrated algal biomass for inland lakes, atmospheric correction, and data gap-filling for satellite imagery.
 
+Work experience {data-icon=briefcase data-concise=true}
+--------------------------------------------------------------------------------
+
+### Helmholtz-Zentrum Hereon
+
+Post-doc
+
+Geesthacht, Germany
+
+2021 - Now
+
+Optical Oceanography, Institute of Coastal Ocean Dynamics
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -483,34 +496,16 @@ Nanjing, China
 2017
 
 
+<!-- ::: aside -->
+<!-- #### References -->
 
+<!-- Yunmei Li, Ph.D., Professor <br> -->
+<!-- School of Geography <br> -->
+<!-- Nanjing Normal University <br> -->
+<!-- Nanjing, China <br> -->
+<!-- liyunmei@njnu.edu.cn -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-::: aside
-#### References
-
-Yunmei Li, Ph.D., Professor <br>
-School of Geography <br>
-Nanjing Normal University <br>
-Nanjing, China <br>
-liyunmei@njnu.edu.cn
-
-:::
+<!-- ::: -->
 
 
 

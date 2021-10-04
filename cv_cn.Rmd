@@ -37,8 +37,9 @@ Aside
 
 <!-- For more icons on https://fontawesome.com/ -->
 
-- <i class="fa fa-envelope"></i> bishun1994@foxmail.com
-- <i class="fa fa-phone"></i> +86 156-5190-9539
+- <i class="fa fa-envelope"></i> Shun.Bi@hereon.de
+<!-- - <i class="fa fa-phone"></i> +86 156-5190-9539 -->
+- <i class="fa fa-phone"></i> +49 152-5955-2657
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
@@ -83,6 +84,24 @@ Main
 
 **研究方向** 水体光学分类、湖泊富营养化和水华遥感监测、叶绿素a遥感监测、二类水体遥感图像大气校正
 
+
+工作经历 {data-icon=briefcase data-concise=true}
+--------------------------------------------------------------------------------
+
+### Helmholtz-Zentrum Hereon
+
+博士后
+
+Geesthacht, Germany
+
+2021 - Now
+
+Optical Oceanography, Institute of Coastal Ocean Dynamics
+
+
+
+
+
 教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -94,7 +113,7 @@ Main
 
 2016 - 2021
 
-论文题目：基于软分类的湖泊柱总藻类生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位
+论文题目：基于软分类的湖泊藻类柱生物量遥感估算研究<br>2018年申请硕博连读计划攻读博士学位
 
 ### 江苏师范大学
 
@@ -527,16 +546,16 @@ N/A
 
 
 
-::: aside
-#### 参考
+<!-- ::: aside -->
+<!-- #### 参考 -->
 
-李云梅 教授 <br>
-地理科学学院 <br>
-南京师范大学 <br>
-中国 南京 <br>
-liyunmei@njnu.edu.cn
+<!-- 李云梅 教授 <br> -->
+<!-- 地理科学学院 <br> -->
+<!-- 南京师范大学 <br> -->
+<!-- 中国 南京 <br> -->
+<!-- liyunmei@njnu.edu.cn -->
 
-:::
+<!-- ::: -->
 
 
 
