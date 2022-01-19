@@ -85,13 +85,23 @@ My current interest is to build an algorithm blending framework for estimating o
 Work experience {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
 
+### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/index.php.en)
+
+Post-doc
+
+Geesthacht, Germany
+
+2022 - Now
+
+Optical Oceanography, Institute of Carbon Cycles
+
 ### Helmholtz-Zentrum Hereon
 
 Post-doc
 
 Geesthacht, Germany
 
-2021 - Now
+2021 - 2021
 
 Optical Oceanography, Institute of Coastal Ocean Dynamics
 
@@ -122,9 +132,9 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
-### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://ieeexplore.ieee.org/document/9361570)
+### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://doi.org/10.1109/TGRS.2021.3058556)
 
-IEEE Transactions on Geoscience and Remote Sensing, *Early Access*, **IF  5.855**
+IEEE Transactions on Geoscience and Remote Sensing, *60*, 1-17, **IF  5.855**
 
 N/A
 
@@ -132,7 +142,7 @@ N/A
 
 **Bi S**, Li Y, Liu G, Song K, Xu J, Dong X, Cai X, Mu M, Miao S, Lyu H
 
-### [Optical classification of inland waters based on an improved Fuzzy C-Means method ](https://www.osapublishing.org/DirectPDFAccess/3EEC055A-6E95-41EE-8265DED3519E96F2_423176/oe-27-24-34838.pdf?da=1&id=423176&seq=0&mobile=no)
+### [Optical classification of inland waters based on an improved Fuzzy C-Means method](https://doi.org/10.1364/OE.27.034838)
 
 Optics Express, *27*(24), 34838–34856,  **IF 3.669**
 
@@ -142,7 +152,7 @@ N/A
 
 **Bi S**, Li Y, Xu J, Liu G, Song K, Mu M, Lyu H, Miao S, Xu J
 
-### [Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China](https://ieeexplore.ieee.org/abstract/document/8718009) {.break-after-me}
+### [Quantifying spatiotemporal dynamics of the column-integrated algal biomass in nonbloom conditions based on OLCI data: a case study of Lake Dianchi, China](http://dx.doi.org/10.1109/TGRS.2019.2913401) {.break-after-me}
 
 IEEE Transactions on Geoscience and Remote Sensing, *57*(10), 7447–7459,  **IF 5.855**
 
@@ -152,7 +162,7 @@ N/A
 
 **Bi S**, Li Y, Lyu H, Mu M, Xu J, Lei S, Miao S, Hong T, Zhou L
 
-### [Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations](https://www.mdpi.com/2072-4292/10/7/1002) 
+### [Inland water atmospheric correction based on turbidity classification using OLCI and SLSTR synergistic observations](https://doi.org/10.3390/rs10071002) 
 
 Remote Sensing, *10*(7), 1002, **IF 4.118**
 
@@ -163,7 +173,7 @@ N/A
 **Bi S**, Li Y, Wang Q, Lyu H, Liu G, Zheng Z, Du C, Mu M, Xu J, Lei S
 
 
-### [Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data](http://www.jlakes.org/ch/reader/view_abstract.aspx?doi=10.18307/2018.0312)
+### [Estimation of chlorophyll-a concentration in Lake Erhai based on OLCI data](http://dx.doi.org/10.18307/2018.0312)
 
 Journal Lake Science, *30*(3), 701–712 (*in Chinese*), **IF 1.445**
 
@@ -176,7 +186,7 @@ N/A
 
 
 <!-- others -->
-### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://www.sciencedirect.com/science/article/pii/S0043135419309364)
+### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://doi.org/10.1016/j.watres.2019.115162)
 
 Water Research, *168*, 115162, **IF 9.13**
 
@@ -186,7 +196,7 @@ N/A
 
 Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
 
-### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://www.sciencedirect.com/science/article/pii/S0034425720300171)
+### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://doi.org/10.1016/j.rse.2020.111648)
 
 Remote Sensing of Environment, *239*, 111648, **IF 9.085**
 
@@ -197,7 +207,7 @@ N/A
 Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
 
 
-### [Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy](https://www.sciencedirect.com/science/article/pii/S0048969721003156)
+### [Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy](https://doi.org/10.1016/j.scitotenv.2021.145249)
 
 Science of the Total Environment, *770*, 145249, **IF 6.551**
 
@@ -208,7 +218,7 @@ N/A
 Xu J, Li Y, Lyu H, Lei S, Mu M, **Bi S**, Xu J, Xu X, Miao S, Li L, & others
 
 
-### [Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy](https://www.sciencedirect.com/science/article/pii/S0269749120364526)
+### [Characteristics of the chromophoric dissolved organic matter of urban black-odor rivers using fluorescence and UV-visible spectroscopy](https://doi.org/10.1016/j.envpol.2020.115763)
 
 Environmental Pollution, *268*, 115763, **IF 6.793**
 
@@ -217,6 +227,16 @@ N/A
 2021
 
 Miao S, Lyu H, Xu J, **Bi S**, Guo H, Mu M, Lei S, Zeng S, Liu H
+
+### [Urban Water Quality Assessment Based on Remote Sensing Reflectance Optical Classification](http://dx.doi.org/10.3390/rs13204047)
+
+Remote Sensing, *13*(20), 4047, **IF 4.118**
+
+N/A
+
+2021
+
+Cai X, Li Y, **Bi S**, Lei S, Xu J, Wang H, Dong X, Li J, Zeng S, Lyu H
 
 
 
