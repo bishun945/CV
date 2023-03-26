@@ -26,6 +26,12 @@ body{
 ```
 
 
+```{r eval=FALSE, include=FALSE}
+library(pagedown)
+chrome_print("./index.Rmd", browser = find_chrome(), format = "pdf", verbose = 1)
+```
+
+
 Aside
 ================================================================================
 
@@ -40,7 +46,7 @@ Aside
 
 - <i class="fa fa-envelope"></i> Shun.Bi@hereon.de
 <!-- - <i class="fa fa-phone"></i> +86 156-5190-9539 -->
-- <i class="fa fa-phone"></i> +49 152-5955-2657
+<!-- - <i class="fa fa-phone"></i> +49 152-5955-2657 -->
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
@@ -50,11 +56,11 @@ Aside
 ### Skills {#skills}
 <!----------------------------------------------------------------------------->
 
-- Experienced in atmospheric correction, Chla algorithm and optical water clustering.
+- Experienced in atmospheric correction, Chla algorithm and optical water classification
 
 - Full experience in remote sensing image processing.
 
-- R, Python, IDL, MATLAB, SeaDAS, SNAP, Ubuntu, macOS.
+- R, Python, IDL, MATLAB, HydroLight, SeaDAS, SNAP, Ubuntu, macOS.
 
 ### Languages 
 
@@ -80,12 +86,12 @@ Shun Bi 毕顺 {#title}
 
 <!-- ### Currently searching for a PD position -->
 
-My current interest is to build an algorithm blending framework for estimating optical active constitutes, such as Chlorophyll-a concentration, across Case I and II waters from remote sensing data. I am also interested in building Chla algorithms for specific water types (e.g., turbid Case II waters), column-integrated algal biomass for inland lakes, atmospheric correction, and data gap-filling for satellite imagery.
+My research interests include optical water classification, bio-geo-optical modeling, ocean color parameter retrieval, and atmospheric correction. Specifically, I am working on developing a blending algorithm capable of estimating optical active constitutes, such as Chlorophyll-a concentration, in both Case-1 and Case-2 waters using remote sensing data. I am also interested in studying column-integrated algal biomass in shallow lakes and data gap-filling for satellite images. Although I initially focused on water color remote sensing in inland waters, my current research encompasses all types of natural waters. 
 
 Work experience {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/index.php.en)
+### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/optical_oceanography/index.php.en)
 
 Post-doc
 
@@ -131,6 +137,16 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
+
+### [A transfer model to determine the above-water remote-sensing reflectance from the underwater remote-sensing ratio](https://doi.org/10.1364/OE.482395)
+
+Optics Express, **IF 3.833** 
+
+N/A
+
+2023
+
+**Bi S**, Röttgers R, Hieronymi M
 
 ### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://doi.org/10.1109/TGRS.2021.3058556)
 
@@ -184,27 +200,27 @@ N/A
 **Bi S**, Li Y, Lu H, Zhu L, Mu M, Lei S, Wen S, Ding X
 
 
-
 <!-- others -->
-### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://doi.org/10.1016/j.watres.2019.115162)
 
-Water Research, *168*, 115162, **IF 9.13**
+### [Utilization of GOCI data to evaluate the diurnal vertical migration of Microcystis aeruginosa and the underlying driving factors](http://dx.doi.org/10.1016/j.jenvman.2022.114734)
 
-N/A
-
-2020
-
-Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
-
-### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://doi.org/10.1016/j.rse.2020.111648)
-
-Remote Sensing of Environment, *239*, 111648, **IF 9.085**
+Journal of Environmental Management, *310*, 114734, **IF 8.91**
 
 N/A
 
-2020
+2022
 
-Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
+Li J, Li Y, **Bi S**, Xu J, Guo F, Lyu H, Dong X, Cai X
+
+### [Recognition of aquatic vegetation above water using shortwave infrared baseline and phenological features]()
+
+Ecological Indicators, *136*, 108607, **IF 6.263**
+
+N/A
+
+2022
+
+Wang H, Li Y, Zeng S, Cai X, **Bi S**, Liu H, Mu M, Dong X, Li J, Xu J, & others
 
 
 ### [Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy](https://doi.org/10.1016/j.scitotenv.2021.145249)
@@ -239,9 +255,40 @@ N/A
 Cai X, Li Y, **Bi S**, Lei S, Xu J, Wang H, Dong X, Li J, Zeng S, Lyu H
 
 
+### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://doi.org/10.1016/j.watres.2019.115162)
+
+Water Research, *168*, 115162, **IF 9.13**
+
+N/A
+
+2020
+
+Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
+
+### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://doi.org/10.1016/j.rse.2020.111648)
+
+Remote Sensing of Environment, *239*, 111648, **IF 9.085**
+
+N/A
+
+2020
+
+Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
+
+
 
 R Packages {data-icon=cubes}
 --------------------------------------------------------------------------------
+
+### [RrsTrans: R package for transferring remote-sensing ratio (rrs) to remote-sensing reflectance (Rrs)](https://github.com/bishun945/RrsTrans)
+
+Version 0.1
+
+N/A
+
+2023
+
+**Bi S**
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
 
@@ -407,6 +454,49 @@ N/A
 
 Conferences and Presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [HYPERNETS Science conference](https://www.hypernets.eu/from_cms/news)
+
+N/A
+
+Tervuren, Belgium
+
+2023
+
+
+### [Ocean Optics XXV](https://2022.oceanopticsconference.org/abstract-bi/)
+
+N/A
+
+Quy Nhon, Vietnam
+
+2022
+
+### [2022 IOCCG Summer Lecture Series](https://ioccg.org/what-we-do/training-and-education/ioccg-sls-2022/)
+
+N/A
+
+Laboratoire d’Océanographie de Villefranche (LOV), France
+
+2022
+
+
+### [Living planet symposium 2022](file:///Users/Bi/Zotero/storage/HH6VRZAV/lps22.eu.html)
+
+N/A
+
+Bonn, Germany
+
+2022
+
+### [Ocean Carbon from Space workshop](https://oceancarbonfromspace2022.esa.int/)
+
+N/A
+
+Online
+
+2022
+
 
 ### [Looking back on my PhD](https://bishun945.github.io/Looking-back-on-my-PhD/)
 

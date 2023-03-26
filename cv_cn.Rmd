@@ -25,6 +25,12 @@ body{
 }
 ```
 
+
+```{r eval=FALSE, include=FALSE}
+library(pagedown)
+chrome_print("./cv_cn.Rmd", output = "./毕顺 简历 中文.pdf", browser = find_chrome(), format = "pdf", verbose = 1)
+```
+
 Aside
 ================================================================================
 
@@ -39,7 +45,7 @@ Aside
 
 - <i class="fa fa-envelope"></i> Shun.Bi@hereon.de
 <!-- - <i class="fa fa-phone"></i> +86 156-5190-9539 -->
-- <i class="fa fa-phone"></i> +49 152-5955-2657
+<!-- - <i class="fa fa-phone"></i> +49 152-5955-2657 -->
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
@@ -51,7 +57,7 @@ Aside
 
 - 擅长水色影像大气校正、叶绿素a浓度估算算法与水体光学分类
 
-- 编程与软件：R, Python, IDL, MATLAB, SeaDAS, SNAP, Ubuntu, macOS.
+- 编程与软件：R, Python, IDL, MATLAB, HydroLight, SeaDAS, SNAP, Ubuntu, macOS.
 
 <!-- ### 语言  -->
 
@@ -139,6 +145,16 @@ Optical Oceanography, Institute of Coastal Ocean Dynamics
 发表论文 {data-icon=book}
 --------------------------------------------------------------------------------
 
+### [A transfer model to determine the above-water remote-sensing reflectance from the underwater remote-sensing ratio](https://doi.org/10.1364/OE.482395)
+
+Optics Express, **IF 3.833** 
+
+N/A
+
+2023
+
+**Bi S**, Röttgers R, Hieronymi M
+
 ### [Assessment of algorithms for estimating chlorophyll-a concentration in inland waters: A round-robin scoring method based on the optically fuzzy clustering](https://doi.org/10.1109/TGRS.2021.3058556)
 
 IEEE Transactions on Geoscience and Remote Sensing, *60*, 1-17, **IF  5.855**
@@ -179,7 +195,6 @@ N/A
 
 **Bi S**, Li Y, Wang Q, Lyu H, Liu G, Zheng Z, Du C, Mu M, Xu J, Lei S
 
-
 ### [基于OLCI数据的洱海叶绿素a浓度估算](http://dx.doi.org/10.18307/2018.0312)
 
 湖泊科学, *30*(3), 701–712, **EI, IF1.445**
@@ -193,25 +208,25 @@ N/A
 
 
 <!-- others -->
-### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://doi.org/10.1016/j.watres.2019.115162)
+### [Utilization of GOCI data to evaluate the diurnal vertical migration of Microcystis aeruginosa and the underlying driving factors](http://dx.doi.org/10.1016/j.jenvman.2022.114734)
 
-Water Research, *168*, 115162, **IF 9.13**
-
-N/A
-
-2020
-
-Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
-
-### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://doi.org/10.1016/j.rse.2020.111648)
-
-Remote Sensing of Environment, *239*, 111648, **IF 9.085**
+Journal of Environmental Management, *310*, 114734, **IF 8.91**
 
 N/A
 
-2020
+2022
 
-Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
+Li J, Li Y, **Bi S**, Xu J, Guo F, Lyu H, Dong X, Cai X
+
+### [Recognition of aquatic vegetation above water using shortwave infrared baseline and phenological features]()
+
+Ecological Indicators, *136*, 108607, **IF 6.263**
+
+N/A
+
+2022
+
+Wang H, Li Y, Zeng S, Cai X, **Bi S**, Liu H, Mu M, Dong X, Li J, Xu J, & others
 
 
 ### [Simultaneous inversion of concentrations of POC and its endmembers in lakes: A novel remote sensing strategy](https://doi.org/10.1016/j.scitotenv.2021.145249)
@@ -246,9 +261,42 @@ N/A
 Cai X, Li Y, **Bi S**, Lei S, Xu J, Wang H, Dong X, Li J, Zeng S, Lyu H
 
 
+### [Tracking spatio-temporal dynamics of POC sources in eutrophic lakes by remote sensing](https://doi.org/10.1016/j.watres.2019.115162)
+
+Water Research, *168*, 115162, **IF 9.13**
+
+N/A
+
+2020
+
+Xu J, Lei S, **Bi S**, Li Y, Lyu H, Xu J, Xu X, Mu M, Miao S, Zeng S & others
+
+### [An OLCI-based algorithm for semi-empirically partitioning absorption coefficient and estimating chlorophyll a concentration in various turbid case-2 waters ](https://doi.org/10.1016/j.rse.2020.111648)
+
+Remote Sensing of Environment, *239*, 111648, **IF 9.085**
+
+N/A
+
+2020
+
+Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & others
+
+
+
 
 程序包 {data-icon=cubes}
 --------------------------------------------------------------------------------
+
+### [RrsTrans: R package for transferring remote-sensing ratio (rrs) to remote-sensing reflectance (Rrs)](https://github.com/bishun945/RrsTrans)
+
+版本0.1<br>
+刚好水表面以下遥感反射比（rrs0-）至刚好水表面以上遥感反射率（Rrs0+）的转换模型
+
+N/A
+
+2023
+
+**Bi S**
 
 ### [FCMm: Water spectra fuzzy-clustering, algorithm assessment, and blending](https://github.com/bishun945/FCMm)
 
@@ -458,6 +506,50 @@ N/A
 
 学术活动 {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [HYPERNETS Science conference（报告）](https://www.hypernets.eu/from_cms/news)
+
+N/A
+
+Tervuren, Belgium
+
+2023
+
+
+### [Ocean Optics XXV（报告）](https://2022.oceanopticsconference.org/abstract-bi/)
+
+N/A
+
+Quy Nhon, Vietnam
+
+2022
+
+
+### [2022 IOCCG Summer Lecture Series](https://ioccg.org/what-we-do/training-and-education/ioccg-sls-2022/)
+
+N/A
+
+Laboratoire d’Océanographie de Villefranche (LOV), France
+
+2022
+
+### [Living planet symposium 2022（海报）](file:///Users/Bi/Zotero/storage/HH6VRZAV/lps22.eu.html)
+
+N/A
+
+Bonn, Germany
+
+2022
+
+
+### [Ocean Carbon from Space workshop（海报）](https://oceancarbonfromspace2022.esa.int/)
+
+N/A
+
+Online
+
+2022
+
 
 ### [Looking back on my PhD](https://bishun945.github.io/Looking-back-on-my-PhD/)
 

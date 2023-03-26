@@ -42,12 +42,6 @@
   --sidebar-background-width: calc(var(--pagedjs-margin-right) + var(--sidebar-width));
 }
 
-/* import google fonts */
-
-/*@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,700');
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i');
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');*/
-
 @page{
   background: linear-gradient(to left, var(--sidebar-background-color), var(--sidebar-background-color) var(--sidebar-background-width), white var(--sidebar-background-width));
 }
@@ -59,16 +53,13 @@ html {
 body{
   width: var(--content-width);
   font-family: "Open Sans", sans-serif;
-  /*font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;*/
   font-weight: 300;
   line-height: 1.3;
   color: #444;
   hyphens: auto;
-  /*text-align: justify;*/
 }
 
 h1, h2, h3{
-  /*font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;*/
   margin: 0;
   color: #000;
 }
@@ -82,12 +73,6 @@ li{
 }
 
 a{
-  text-decoration: none;
-  color: #000;
-}
-
-a:hover{
-  color: #FF00FF;
   text-decoration: none;
 }
 
@@ -421,14 +406,6 @@ h2 {
   break-inside: avoid;
 }
 
-.break-after-me {
-  break-after: page;
-}
-
-.main-block {
-  break-inside: avoid-page;
-}
-
 /* Paged.js viewer */
 
 @media screen {
@@ -455,4 +432,3 @@ h2 {
     width: unset;
   }
 }
-
