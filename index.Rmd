@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-# knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 ```{css echo=FALSE}
@@ -137,6 +137,17 @@ Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet R
 
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
+
+### [Bio-geo-optical modelling of natural waters](10.3389/fmars.2023.1196352)
+
+Frontiers in Marine Science, **IF 5.247** 
+
+N/A
+
+2023
+
+**Bi S**, Hieronymi M, Röttgers R
+
 
 ### [A transfer model to determine the above-water remote-sensing reflectance from the underwater remote-sensing ratio](https://doi.org/10.1364/OE.482395)
 
@@ -279,6 +290,17 @@ Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & other
 
 R Packages {data-icon=cubes}
 --------------------------------------------------------------------------------
+
+### [IOPmodel: Model inherent optical properties from component concentrations ](https://github.com/bishun945/IOPmodel)
+
+Version 0.1
+
+N/A
+
+2023
+
+**Bi S**
+
 
 ### [RrsTrans: R package for transferring remote-sensing ratio (rrs) to remote-sensing reflectance (Rrs)](https://github.com/bishun945/RrsTrans)
 
@@ -452,8 +474,16 @@ N/A
 
 
 
-Conferences and Presentations {data-icon=chalkboard}
+Cruise, conferences and presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [AL597: cruise in the Baltic Sea](https://www.geomar.de/en/centre/central-facilities/geomar-research-vessels/rs-alkor)
+
+N/A
+
+Kiel, Germany
+
+2023
 
 ### [HYPERNETS Science conference](https://www.hypernets.eu/from_cms/news)
 
