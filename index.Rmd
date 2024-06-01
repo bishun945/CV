@@ -64,7 +64,7 @@ Aside
 
 ### Languages 
 
-Mandarin (native), English (written and oral)
+Mandarin (native), English
 
 
 Disclaimer {#disclaimer}
@@ -82,11 +82,9 @@ Main
 Shun Bi 毕顺 {#title}
 --------------------------------------------------------------------------------
 
+<p><strong style="color: red; font-size: 20px;">Currently seeking new job opportunities!</strong></p>
 
-
-<!-- ### Currently searching for a PD position -->
-
-My research interests include optical water classification, bio-geo-optical modeling, ocean color parameter retrieval, and atmospheric correction. Specifically, I am working on developing a blending algorithm capable of estimating optical active constitutes, such as Chlorophyll-a concentration, in both Case-1 and Case-2 waters using remote sensing data. I am also interested in studying column-integrated algal biomass in shallow lakes and data gap-filling for satellite images. Although I initially focused on water color remote sensing in inland waters, my current research encompasses all types of natural waters. 
+My research interests encompass optical water classification, bio-geo-optical modeling, ocean color parameter retrieval, in situ optical measurements, neural network algorithms, and atmospheric correction. Notably, I developed a precise bio-geo-optical model (Bi et al., 2023) to estimate the inherent optical properties of water components from their constituent concentrations. This forward model has recently been utilized to create a comprehensive optical water type classification framework that includes inland, coastal, and oceanic waters (Bi and Hieronymi, 2024). These models support my ongoing studies on improving the retrieval of optically active substances in water, aiding in the macroscopic and systematic observation and understanding of aquatic ecosystems.
 
 Work experience {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
@@ -101,7 +99,7 @@ Geesthacht, Germany
 
 Optical Oceanography, Institute of Carbon Cycles
 
-### Helmholtz-Zentrum Hereon
+### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/optical_oceanography/index.php.en)
 
 Post-doc
 
@@ -135,8 +133,33 @@ Xuzhou, China
 Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet Region Based on Meteorological Drought Composite Index
 
 
+Professional service {data-icon=head}
+--------------------------------------------------------------------------------
+
+### [IOCCG scientific working group](https://ioccg.org/group/owt/)
+
+Classification of Optical Water Types in Aquatic Radiometry
+
+N/A
+
+2023 - Now
+
+N/A
+
+
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
+
+### [Holistic optical water type classification for ocean, coastal, and inland waters](https://www.researchgate.net/profile/Shun-Bi)
+
+Limnology and Oceanography, **IF 4.5** 
+
+N/A
+
+2024
+
+**Bi S** and Hieronymi M
+
 
 ### [Bio-geo-optical modelling of natural waters](10.3389/fmars.2023.1196352)
 
@@ -211,7 +234,30 @@ N/A
 **Bi S**, Li Y, Lu H, Zhu L, Mu M, Lei S, Wen S, Ding X
 
 
+
 <!-- others -->
+
+### [Spatial and temporal distribution analysis of dominant algae in Lake Taihu based on ocean and land color instrument data](http://dx.doi.org/10.1016/j.ecolind.2023.110959)
+
+Ecological Indicators
+
+N/A
+
+2023
+
+Zhu Y, Li Y, **Bi S**, Lyu H, Cai X, Wang H, Li J, li J, Xu J
+
+
+### [Ocean color atmospheric correction methods in view of usability for different optical water types](http://dx.doi.org/10.3389/fmars.2023.1129876)
+
+Frontiers in Marine Science, *10*, 1129876.
+
+N/A
+
+2023
+
+Hieronymi M, **Bi S**, Müller D, Schütt Eike, Behr D, Brockmann C, Lebreton C, Steinmetz F, Stelzer K, Vanhellemont Q.
+
 
 ### [Utilization of GOCI data to evaluate the diurnal vertical migration of Microcystis aeruginosa and the underlying driving factors](http://dx.doi.org/10.1016/j.jenvman.2022.114734)
 
@@ -290,6 +336,17 @@ Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & other
 
 R Packages {data-icon=cubes}
 --------------------------------------------------------------------------------
+
+### [pyOWT: python library for Optical Water Type classification](https://github.com/bishun945/pyOWT)
+
+Version 0.40
+
+N/A
+
+2024
+
+**Bi S**
+
 
 ### [IOPmodel: Model inherent optical properties from component concentrations ](https://github.com/bishun945/IOPmodel)
 
@@ -477,6 +534,30 @@ N/A
 Cruise, conferences and presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### [FICE-2024: A Training Event on In situ Ocean Colour Above-Water Radiometry towards Satellite Validation in Acqua Alta Oceanographic Tower and Venice](https://frm4soc2.eumetsat.int/)
+
+N/A
+
+Venice, Italy
+
+2024
+
+### KC-seminar: Bio-geo-optical modeling of natural waters (oral presentation)
+
+N/A
+
+Geesthacht, Germany
+
+2024
+
+### [8th S3VT meeting (oral presentation)](https://www.eventsforce.net/eumetsat/frontend/reg/absViewDocumentFE.csp?documentID=1513&eventID=44)
+
+N/A
+
+Darmstadt, Germany
+
+2023
+
 ### [AL597: cruise in the Baltic Sea](https://www.geomar.de/en/centre/central-facilities/geomar-research-vessels/rs-alkor)
 
 N/A
@@ -485,7 +566,16 @@ Kiel, Germany
 
 2023
 
-### [HYPERNETS Science conference](https://www.hypernets.eu/from_cms/news)
+### [2023 International Ocean Colour Science Meeting (poster)](https://iocs.ioccg.org/)
+
+N/A
+
+St. Petersburg, USA
+
+2023
+
+
+### [HYPERNETS Science conference (oral presentation)](https://www.hypernets.eu/from_cms/news)
 
 N/A
 
@@ -494,7 +584,7 @@ Tervuren, Belgium
 2023
 
 
-### [Ocean Optics XXV](https://2022.oceanopticsconference.org/abstract-bi/)
+### [Ocean Optics XXV (oral presentation)](https://2022.oceanopticsconference.org/abstract-bi/)
 
 N/A
 
@@ -511,7 +601,7 @@ Laboratoire d’Océanographie de Villefranche (LOV), France
 2022
 
 
-### [Living planet symposium 2022](file:///Users/Bi/Zotero/storage/HH6VRZAV/lps22.eu.html)
+### [Living planet symposium 2022 (poster)](file:///Users/Bi/Zotero/storage/HH6VRZAV/lps22.eu.html)
 
 N/A
 
@@ -519,7 +609,7 @@ Bonn, Germany
 
 2022
 
-### [Ocean Carbon from Space workshop](https://oceancarbonfromspace2022.esa.int/)
+### [Ocean Carbon from Space workshop (poster)](https://oceancarbonfromspace2022.esa.int/)
 
 N/A
 
