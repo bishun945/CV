@@ -49,7 +49,7 @@ Aside
 - <i class="fa fa-github"></i> [github.com/bishun945](https://github.com/bishun945)
 - <i class="fab fa-researchgate"></i> [Shun_Bi](https://www.researchgate.net/profile/Shun_Bi)
 - <i class="fa fa-twitter"></i> [bishun945](https://twitter.com/bishun945)
-- 欢迎您通过邮件或电话与我联系
+- 欢迎您与我联系！
 
 
 ### 技能 {#skills}
@@ -59,9 +59,9 @@ Aside
 
 - 编程与软件：R, Python, IDL, MATLAB, HydroLight, SeaDAS, SNAP, Ubuntu, macOS.
 
-<!-- ### 语言  -->
+### 语言
 
-<!-- Mandarin (native), English (written and oral) -->
+中文（母语），英语
 
 
 Disclaimer {#disclaimer}
@@ -82,13 +82,13 @@ Main
 毕  顺 {#title}
 --------------------------------------------------------------------------------
 
-
+<p><strong style="color: red; font-size: 20px;">找工作中！</strong></p>
 
 <!-- ### Currently seeking new job opportunities! -->
 
-**工作简介** 我当前的研究工作是通过光学模糊聚类的方法构建出基于遥感反演光学复杂水体生物光学活性物质的混合计算框架，包括叶绿素a浓度、悬浮物浓度、有色可溶性有机物等，并将该框架应用于水色传感器，最终生产出高精度的水色产品。我其他的研究工作包括：对特定水体类型（如极浑浊二类水体）构建叶绿素a遥感算法、内陆湖泊柱总生物量的遥感估算、水色影像的大气校正方法以及卫星影像缺失值重构研究。
+**工作简介** 我的研究兴趣涵盖了光学水体分类、生物-地理-光学建模、海洋颜色参数反演、现场光学测量、神经网络算法和大气校正。值得注意的是，我开发了一个精确的生物-地理光学模型（Bi et al，2023），用于根据水体成分浓度估算其固有光学性质。这个前向模型最近被用于创建一个包括内陆、沿海和海洋水体的综合光学水类型分类框架（Bi and Hieronymi，2024）。这些模型支持我正在进行的改善水中光学活性物质反演的研究，有助于宏观和系统地观察和理解水生生态系统。
 
-**研究方向** 水体光学分类、湖泊富营养化和水华遥感监测、叶绿素a遥感监测、二类水体遥感图像大气校正
+**研究方向** 水体光学分类、水体光学测量，水体遥感影像大气校正，湖泊富营养化和水华遥感监测
 
 
 工作经历 {data-icon=briefcase data-concise=true}
@@ -100,11 +100,11 @@ Main
 
 Geesthacht, Germany
 
-2022 - Now
+2022 - 现在
 
 Optical Oceanography, Institute of Carbon Cycles
 
-### Helmholtz-Zentrum Hereon
+### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/index.php.en)
 
 博士后
 
@@ -142,8 +142,34 @@ Optical Oceanography, Institute of Coastal Ocean Dynamics
 论文题目：基于综合气象干旱指数的青藏地区1980-2010年干旱时空变化分析
 
 
+专业服务 {data-icon=pen-nib}
+--------------------------------------------------------------------------------
+
+### [IOCCG scientific working group](https://ioccg.org/group/owt/)
+
+Classification of Optical Water Types in Aquatic Radiometry
+
+N/A
+
+2023 - 现在
+
+
 发表论文 {data-icon=book}
 --------------------------------------------------------------------------------
+
+### [Holistic optical water type classification for ocean, coastal, and inland waters](https://www.researchgate.net/profile/Shun-Bi)
+
+Limnology and Oceanography, **IF 4.5** 
+
+N/A
+
+2024
+
+**Bi S** and Hieronymi M
+
+::: aside
+一作和通讯
+:::
 
 ### [Bio-geo-optical modelling of natural waters](10.3389/fmars.2023.1196352)
 
@@ -219,6 +245,34 @@ N/A
 
 
 <!-- others -->
+
+
+### [Spatial and temporal distribution analysis of dominant algae in Lake Taihu based on ocean and land color instrument data](http://dx.doi.org/10.1016/j.ecolind.2023.110959)
+
+Ecological Indicators
+
+N/A
+
+2023
+
+Zhu Y, Li Y, **Bi S**, Lyu H, Cai X, Wang H, Li J, li J, Xu J
+
+::: aside
+合作者
+:::
+
+
+### [Ocean color atmospheric correction methods in view of usability for different optical water types](http://dx.doi.org/10.3389/fmars.2023.1129876)
+
+Frontiers in Marine Science, *10*, 1129876.
+
+N/A
+
+2023
+
+Hieronymi M, **Bi S**, Müller D, Schütt Eike, Behr D, Brockmann C, Lebreton C, Steinmetz F, Stelzer K, Vanhellemont Q.
+
+
 ### [Utilization of GOCI data to evaluate the diurnal vertical migration of Microcystis aeruginosa and the underlying driving factors](http://dx.doi.org/10.1016/j.jenvman.2022.114734)
 
 Journal of Environmental Management, *310*, 114734, **IF 8.91**
@@ -297,6 +351,17 @@ Liu G, Li L, Song K, Li Y, Lyu H, Wen Z, Fang C, **Bi S**, Sun X, Wang Z & other
 
 程序包 {data-icon=cubes}
 --------------------------------------------------------------------------------
+
+### [pyOWT: python library for Optical Water Type classification](https://github.com/bishun945/pyOWT)
+
+版本0.40<br>适用于内陆、海岸和海洋的综合型水体光学分类框架
+
+N/A
+
+2024
+
+**Bi S**
+
 
 ### [IOPmodel: Model inherent optical properties from component concentrations ](https://github.com/bishun945/IOPmodel)
 
@@ -528,6 +593,31 @@ N/A
 
 学术活动与实验 {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### [FICE-2024: A Training Event on In situ Ocean Colour Above-Water Radiometry towards Satellite Validation in Acqua Alta Oceanographic Tower and Venice](https://frm4soc2.eumetsat.int/)
+
+N/A
+
+Venice, Italy
+
+2024
+
+### KC-seminar: Bio-geo-optical modeling of natural waters（报告）
+
+N/A
+
+Geesthacht, Germany
+
+2024
+
+### [8th S3VT meeting (报告)](https://www.eventsforce.net/eumetsat/frontend/reg/absViewDocumentFE.csp?documentID=1513&eventID=44)
+
+N/A
+
+Darmstadt, Germany
+
+2023
+
 
 ### [AL597：波罗的海航次实验](https://www.geomar.de/en/centre/central-facilities/geomar-research-vessels/rs-alkor)
 

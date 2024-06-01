@@ -56,7 +56,7 @@ Aside
 ### Skills {#skills}
 <!----------------------------------------------------------------------------->
 
-- Experienced in atmospheric correction, Chla algorithm and optical water classification
+- Experienced in optical water classification, atmospheric correction, and Chla algorithm
 
 - Full experience in remote sensing image processing.
 
@@ -133,7 +133,7 @@ Xuzhou, China
 Thesis: Analysis of Spatiotemporal Characteristics of Drought in Qinghai-Tibet Region Based on Meteorological Drought Composite Index
 
 
-Professional service {data-icon=head}
+Professional service {data-icon=pen-nib}
 --------------------------------------------------------------------------------
 
 ### [IOCCG scientific working group](https://ioccg.org/group/owt/)
@@ -144,7 +144,8 @@ N/A
 
 2023 - Now
 
-N/A
+
+
 
 
 Selected Publications {data-icon=book}
