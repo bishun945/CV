@@ -82,7 +82,7 @@ Main
 Shun Bi 毕顺 {#title}
 --------------------------------------------------------------------------------
 
-<!-- <p><strong style="color: red; font-size: 20px;">Currently seeking new job opportunities!</strong></p> -->
+<p><strong style="color: red; font-size: 20px;">Open to a new position!</strong></p>
 
 My research interests encompass optical water classification, bio-geo-optical modeling, ocean color parameter retrieval, in situ optical measurements, neural network algorithms, and atmospheric correction. Notably, I developed a precise bio-geo-optical model (Bi et al., 2023) to estimate the inherent optical properties of water components from their constituent concentrations. This forward model has recently been utilized to create a comprehensive optical water type classification framework that includes inland, coastal, and oceanic waters (Bi and Hieronymi, 2024). These models support my ongoing studies on improving the retrieval of optically active substances in water, aiding in the macroscopic and systematic observation and understanding of aquatic ecosystems.
 
