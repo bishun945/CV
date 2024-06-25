@@ -157,7 +157,7 @@ N/A
 发表论文 {data-icon=book}
 --------------------------------------------------------------------------------
 
-### [Holistic optical water type classification for ocean, coastal, and inland waters](https://www.researchgate.net/profile/Shun-Bi)
+### [Holistic optical water type classification for ocean, coastal, and inland waters](https://doi.org/10.1002/lno.12606)
 
 Limnology and Oceanography, **IF 4.5** 
 
