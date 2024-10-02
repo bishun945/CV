@@ -82,7 +82,7 @@ Main
 毕  顺 {#title}
 --------------------------------------------------------------------------------
 
-<p><strong style="color: red; font-size: 20px;">找工作中！</strong></p>
+<!-- <p><strong style="color: red; font-size: 20px;">找工作中！</strong></p> -->
 
 <!-- ### Currently seeking new job opportunities! -->
 
@@ -100,7 +100,7 @@ Main
 
 Geesthacht, Germany
 
-2022 - 现在
+2022 - 2024
 
 Optical Oceanography, Institute of Carbon Cycles
 

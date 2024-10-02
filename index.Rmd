@@ -95,7 +95,7 @@ Post-doc
 
 Geesthacht, Germany
 
-2022 - Now
+2022 - 2024
 
 Optical Oceanography, Institute of Carbon Cycles
 
@@ -109,7 +109,7 @@ Geesthacht, Germany
 
 Optical Oceanography, Institute of Coastal Ocean Dynamics
 
-Education {data-icon=graduation-cap data-concise=true}
+Education and training events {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Nanjing Normal University
