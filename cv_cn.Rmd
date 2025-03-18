@@ -94,6 +94,16 @@ Main
 工作经历 {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
 
+### [中国科学院南京地理与湖泊研究所](https://niglas.cas.cn/)
+
+助理研究员
+
+南京, 中国
+
+2024 - Now
+
+物理湖泊与水文研究室
+
 ### [Helmholtz-Zentrum Hereon](https://www.hereon.de/institutes/carbon_cycles/index.php.en)
 
 博士后
